@@ -1,0 +1,131 @@
+group,cat_code,cat,type,potential_points,awarded_points,building_code,building_name,leed_version,points_earned,cat_and_cat_name
+SS,SS,Sustainable sites,cat,14,9,6,Tucker Hall,2.2,9/14,SS(14)v2.2
+WE,WE,Water Efficiency,cat,5,4,6,Tucker Hall,2.2,4/5,WE(5)v2.2
+EA,EA,Energy and atmosphere,cat,17,6,6,Tucker Hall,2.2,6/17,EA(17)v2.2
+MR,MR,Material and Resources,cat,13,5,6,Tucker Hall,2.2,5/13,MR(13)v2.2
+EQ,EQ,Indoor Environmental Quality,cat,15,11,6,Tucker Hall,2.2,11/15,EQ(15)v2.2
+ID,ID,Innovation,cat,6,5,6,Tucker Hall,2.2,5/6,ID(6)v2.2
+TO,TO,Total,cat,69,40,6,Tucker Hall,2.2,40/69,TO(69)v2.2
+SS,SS,Sustainable sites,cat,14,10,5,School of Education,2.2,10/14,SS(14)v2.2
+WE,WE,Water Efficiency,cat,5,2,5,School of Education,2.2,2/5,WE(5)v2.2
+EA,EA,Energy and atmosphere,cat,17,4,5,School of Education,2.2,4/17,EA(17)v2.2
+MR,MR,Material and Resources,cat,13,7,5,School of Education,2.2,7/13,MR(13)v2.2
+EQ,EQ,Indoor Environmental Quality,cat,15,11,5,School of Education,2.2,11/15,EQ(15)v2.2
+ID,ID,Innovation,cat,6,5,5,School of Education,2.2,5/6,ID(6)v2.2
+TO,TO,Total,cat,69,39,5,School of Education,2.2,39/69,TO(69)v2.2
+SS,SS,Sustainable sites,cat,14,10,4,Miller Hall (Mason School of Business,2.2,10/14,SS(14)v2.2
+WE,WE,Water Efficiency,cat,5,4,4,Miller Hall (Mason School of Business,2.2,4/5,WE(5)v2.2
+EA,EA,Energy and atmosphere,cat,17,6,4,Miller Hall (Mason School of Business,2.2,6/17,EA(17)v2.2
+MR,MR,Material and Resources,cat,13,7,4,Miller Hall (Mason School of Business,2.2,7/13,MR(13)v2.2
+EQ,EQ,Indoor Environmental Quality,cat,15,11,4,Miller Hall (Mason School of Business,2.2,11/15,EQ(15)v2.2
+ID,ID,Innovation,cat,6,4,4,Miller Hall (Mason School of Business,2.2,4/6,ID(6)v2.2
+TO,TO,Total,cat,69,42,4,Miller Hall (Mason School of Business,2.2,42/69,TO(69)v2.2
+SS,SS,Sustainable sites,cat,14,9,3,Cohen Career Center,2.2,9/14,SS(14)v2.2
+WE,WE,Water Efficiency,cat,5,4,3,Cohen Career Center,2.2,4/5,WE(5)v2.2
+EA,EA,Energy and atmosphere,cat,17,9,3,Cohen Career Center,2.2,9/17,EA(17)v2.2
+MR,MR,Material and Resources,cat,13,0,3,Cohen Career Center,2.2,0/13,MR(13)v2.2
+EQ,EQ,Indoor Environmental Quality,cat,15,13,3,Cohen Career Center,2.2,13/15,EQ(15)v2.2
+ID,ID,Innovation,cat,6,2,3,Cohen Career Center,2.2,2/6,ID(6)v2.2
+TO,TO,Total,cat,69,42,3,Cohen Career Center,2.2,42/69,TO(69)v2.2
+SS,SS,Sustainable sites,cat,26,18,15,Greek Fraternity Community Building,3,18/26,SS(26)v3
+WE,WE,Water efficiency,cat,10,6,15,Greek Fraternity Community Building,3,6/10,WE(10)v3
+EA,EA,Energy and Atmosphere,cat,53,5,15,Greek Fraternity Community Building,3,5/53,EA(53)v3
+MR,MR,Material and Resources,cat,14,5,15,Greek Fraternity Community Building,3,5/14,MR(14)v3
+EQ,EQ,Indoor Environmental Quality,cat,15,9,15,Greek Fraternity Community Building,3,9/15,EQ(15)v3
+ID,ID,Innovation,cat,6,5,15,Greek Fraternity Community Building,3,5/6,ID(6)v3
+RP,RP,Regional Priority Credits,cat,4,2,15,Greek Fraternity Community Building,3,2/4,RP(4)v3
+TO,TO,Total,cat,110,50,15,Greek Fraternity Community Building,3,50/110,TO(110)v3
+SS,SS,Sustainable sites,cat,26,19,14,West Utility Plant,3,19/26,SS(26)v3
+WE,WE,Water efficiency,cat,10,6,14,West Utility Plant,3,6/10,WE(10)v3
+EA,EA,Energy and Atmosphere,cat,53,19,14,West Utility Plant,3,19/53,EA(53)v3
+MR,MR,Material and Resources,cat,14,6,14,West Utility Plant,3,6/14,MR(14)v3
+EQ,EQ,Indoor Environmental Quality,cat,15,13,14,West Utility Plant,3,13/15,EQ(15)v3
+ID,ID,Innovation,cat,6,4,14,West Utility Plant,3,4/6,ID(6)v3
+RP,RP,Regional Priority Credits,cat,4,2,14,West Utility Plant,3,2/4,RP(4)v3
+TO,TO,Total,cat,110,69,14,West Utility Plant,3,69/110,TO(110)v3
+SS,SS,Sustainable sites,cat,26,17,12,Music Arts Center,3,17/26,SS(26)v3
+WE,WE,Water efficiency,cat,10,7,12,Music Arts Center,3,7/10,WE(10)v3
+EA,EA,Energy and Atmosphere,cat,53,12,12,Music Arts Center,3,12/53,EA(53)v3
+MR,MR,Material and Resources,cat,14,4,12,Music Arts Center,3,4/14,MR(14)v3
+EQ,EQ,Indoor Environmental Quality,cat,15,8,12,Music Arts Center,3,8/15,EQ(15)v3
+ID,ID,Innovation,cat,6,3,12,Music Arts Center,3,3/6,ID(6)v3
+RP,RP,Regional Priority Credits,cat,4,2,12,Music Arts Center,3,2/4,RP(4)v3
+TO,TO,Total,cat,110,53,12,Music Arts Center,3,53/110,TO(110)v3
+SS,SS,Sustainable sites,cat,26,17,13,PBK Memorial Hall,3,17/26,SS(26)v3
+WE,WE,Water efficiency,cat,10,7,13,PBK Memorial Hall,3,7/10,WE(10)v3
+EA,EA,Energy and Atmosphere,cat,53,12,13,PBK Memorial Hall,3,12/53,EA(53)v3
+MR,MR,Material and Resources,cat,14,4,13,PBK Memorial Hall,3,4/14,MR(14)v3
+EQ,EQ,Indoor Environmental Quality,cat,15,8,13,PBK Memorial Hall,3,8/15,EQ(15)v3
+ID,ID,Innovation,cat,6,3,13,PBK Memorial Hall,3,3/6,ID(6)v3
+RP,RP,Regional Priority Credits,cat,4,2,13,PBK Memorial Hall,3,2/4,RP(4)v3
+TO,TO,Total,cat,110,53,13,PBK Memorial Hall,3,53/110,TO(110)v3
+SS,SS,Sustainable sites,cat,26,19,11,McLeod Tyler Wellness Center,3,19/26,SS(26)v3
+WE,WE,Water efficiency,cat,10,4,11,McLeod Tyler Wellness Center,3,4/10,WE(10)v3
+EA,EA,Energy and Atmosphere,cat,53,13,11,McLeod Tyler Wellness Center,3,13/53,EA(53)v3
+MR,MR,Material and Resources,cat,14,6,11,McLeod Tyler Wellness Center,3,6/14,MR(14)v3
+EQ,EQ,Indoor Environmental Quality,cat,15,10,11,McLeod Tyler Wellness Center,3,10/15,EQ(15)v3
+ID,ID,Innovation,cat,6,6,11,McLeod Tyler Wellness Center,3,6/6,ID(6)v3
+RP,RP,Regional Priority Credits,cat,4,2,11,McLeod Tyler Wellness Center,3,2/4,RP(4)v3
+TO,TO,Total,cat,110,60,11,McLeod Tyler Wellness Center,3,60/110,TO(110)v3
+SS,SS,Sustainable sites,cat,26,15,10,Marshall Wythe School of Law Addition,3,15/26,SS(26)v3
+WE,WE,Water efficiency,cat,10,4,10,Marshall Wythe School of Law Addition,3,4/10,WE(10)v3
+EA,EA,Energy and Atmosphere,cat,53,17,10,Marshall Wythe School of Law Addition,3,17/53,EA(53)v3
+MR,MR,Material and Resources,cat,14,4,10,Marshall Wythe School of Law Addition,3,4/14,MR(14)v3
+EQ,EQ,Indoor Environmental Quality,cat,15,9,10,Marshall Wythe School of Law Addition,3,9/15,EQ(15)v3
+ID,ID,Innovation,cat,6,2,10,Marshall Wythe School of Law Addition,3,2/6,ID(6)v3
+RP,RP,Regional Priority Credits,cat,4,2,10,Marshall Wythe School of Law Addition,3,2/4,RP(4)v3
+TO,TO,Total,cat,110,53,10,Marshall Wythe School of Law Addition,3,53/110,TO(110)v3
+SS,SS,Sustainable sites,cat,26,22,7,Chancellors Hall,3,22/26,SS(26)v3
+WE,WE,Water efficiency,cat,10,8,7,Chancellors Hall,3,8/10,WE(10)v3
+EA,EA,Energy and Atmosphere,cat,53,10,7,Chancellors Hall,3,10/53,EA(53)v3
+MR,MR,Material and Resources,cat,14,6,7,Chancellors Hall,3,6/14,MR(14)v3
+EQ,EQ,Indoor Environmental Quality,cat,15,10,7,Chancellors Hall,3,10/15,EQ(15)v3
+ID,ID,Innovation,cat,6,4,7,Chancellors Hall,3,4/6,ID(6)v3
+RP,RP,Regional Priority Credits,cat,4,3,7,Chancellors Hall,3,3/4,RP(4)v3
+TO,TO,Total,cat,110,63,7,Chancellors Hall,3,63/110,TO(110)v3
+SS,SS,Sustainable sites,cat,26,15,9,Landrum Hall,3,15/26,SS(26)v3
+WE,WE,Water efficiency,cat,10,8,9,Landrum Hall,3,8/10,WE(10)v3
+EA,EA,Energy and Atmosphere,cat,53,9,9,Landrum Hall,3,9/53,EA(53)v3
+MR,MR,Material and Resources,cat,14,6,9,Landrum Hall,3,6/14,MR(14)v3
+EQ,EQ,Indoor Environmental Quality,cat,15,10,9,Landrum Hall,3,10/15,EQ(15)v3
+ID,ID,Innovation,cat,6,5,9,Landrum Hall,3,5/6,ID(6)v3
+RP,RP,Regional Priority Credits,cat,4,3,9,Landrum Hall,3,3/4,RP(4)v3
+TO,TO,Total,cat,110,56,9,Landrum Hall,3,56/110,TO(110)v3
+SS,SS,Sustainable sites,cat,26,20,8,ISC 3,3,20/26,SS(26)v3
+WE,WE,Water efficiency,cat,10,4,8,ISC 3,3,4/10,WE(10)v3
+EA,EA,Energy and Atmosphere,cat,53,15,8,ISC 3,3,15/53,EA(53)v3
+MR,MR,Material and Resources,cat,14,7,8,ISC 3,3,7/14,MR(14)v3
+EQ,EQ,Indoor Environmental Quality,cat,15,11,8,ISC 3,3,11/15,EQ(15)v3
+ID,ID,Innovation,cat,6,4,8,ISC 3,3,4/6,ID(6)v3
+RP,RP,Regional Priority Credits,cat,4,2,8,ISC 3,3,2/4,RP(4)v3
+TO,TO,Total,cat,110,63,8,ISC 3,3,63/110,TO(110)v3
+SS,SS,Sustainable Sites,cat,10,1,22,Sadler West Expansion,4,1/10,SS(10)v4
+WE,WE,Water Efficiency,cat,11,3,22,Sadler West Expansion,4,3/11,WE(11)v4
+EA,EA,Energy and Atmosphere,cat,89,24,22,Sadler West Expansion,4,24/89,EA(89)v4
+MR,MR,Material and Resources,cat,13,9,22,Sadler West Expansion,4,9/13,MR(13)v4
+EQ,EQ,Indoor environmental Quality,cat,16,6,22,Sadler West Expansion,4,6/16,EQ(16)v4
+ID,ID,Innovation,cat,6,5,22,Sadler West Expansion,4,5/6,ID(6)v4
+RP,RP,Regional Priority Credits,cat,4,3,22,Sadler West Expansion,4,3/4,RP(4)v4
+LT,LT,Location and Transportation,cat,20,4,22,Sadler West Expansion,4,4/20,LT(20)v4
+IP,IP,Integrative process credits,cat,1,0,22,Sadler West Expansion,4,0/1,IP(1)v4
+TO,TO,Total,cat,110,55,22,Sadler West Expansion,4,55/110,TO(110)v4
+SS,SS,Sustainable Sites,cat,10,2,21,Campus Living Center,4,2/10,SS(10)v4
+WE,WE,Water Efficiency,cat,11,3,21,Campus Living Center,4,3/11,WE(11)v4
+EA,EA,Energy and Atmosphere,cat,89,16,21,Campus Living Center,4,16/89,EA(89)v4
+MR,MR,Material and Resources,cat,13,7,21,Campus Living Center,4,7/13,MR(13)v4
+EQ,EQ,Indoor environmental Quality,cat,16,9,21,Campus Living Center,4,9/16,EQ(16)v4
+ID,ID,Innovation,cat,6,6,21,Campus Living Center,4,6/6,ID(6)v4
+RP,RP,Regional Priority Credits,cat,4,3,21,Campus Living Center,4,3/4,RP(4)v4
+LT,LT,Location and Transportation,cat,20,4,21,Campus Living Center,4,4/20,LT(20)v4
+IP,IP,Integrative process credits,cat,1,0,21,Campus Living Center,4,0/1,IP(1)v4
+TO,TO,Total,cat,110,50,21,Campus Living Center,4,50/110,TO(110)v4
+SS,SS,Sustainable Sites,cat,10,1,20,Alumni House Addition,4,1/10,SS(10)v4
+WE,WE,Water Efficiency,cat,11,5,20,Alumni House Addition,4,5/11,WE(11)v4
+EA,EA,Energy and Atmosphere,cat,89,16,20,Alumni House Addition,4,16/89,EA(89)v4
+MR,MR,Material and Resources,cat,13,8,20,Alumni House Addition,4,8/13,MR(13)v4
+EQ,EQ,Indoor environmental Quality,cat,16,10,20,Alumni House Addition,4,10/16,EQ(16)v4
+ID,ID,Innovation,cat,6,5,20,Alumni House Addition,4,5/6,ID(6)v4
+RP,RP,Regional Priority Credits,cat,4,1,20,Alumni House Addition,4,1/4,RP(4)v4
+LT,LT,Location and Transportation,cat,20,6,20,Alumni House Addition,4,6/20,LT(20)v4
+IP,IP,Integrative process credits,cat,1,0,20,Alumni House Addition,4,0/1,IP(1)v4
+TO,TO,Total,cat,110,52,20,Alumni House Addition,4,52/110,TO(110)v4

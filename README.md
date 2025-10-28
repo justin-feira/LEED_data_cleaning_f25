@@ -1,4 +1,6 @@
 # LEED_data_cleaning_f25
+Author: Justin Feira
+Date Created: 10/27/2025
 
 Code referenced in LEED process documentation. Transforms base spreadsheet data into ArcGIS ready wide form data.
 

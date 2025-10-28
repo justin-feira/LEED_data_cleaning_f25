@@ -1,0 +1,1115 @@
+group,cat_code,cat,type,potential_points,awarded_points,building_code,building_name,leed_version,points_earned,cat_and_cat_name
+SS,SS,Sustainable sites,cat,14,9,6,Tucker Hall,2.2,9/14,SS - Sustainable sites
+SS,SSp1,Construction activity pollution prevention,prereq,0,0,6,Tucker Hall,2.2,prerequisite,SSp1 - Construction activity pollution prevention
+SS,SSc1,Site selection,cred,1,1,6,Tucker Hall,2.2,1/1,SSc1 - Site selection
+SS,SSc2,Development density and community connectivity ,cred,1,1,6,Tucker Hall,2.2,1/1,SSc2 - Development density and community connectivity 
+SS,SSc3,Brownfield redevelopment,cred,1,1,6,Tucker Hall,2.2,1/1,SSc3 - Brownfield redevelopment
+SS,SSc4.1,Alternative transportation - public transportation access,cred,1,1,6,Tucker Hall,2.2,1/1,SSc4.1 - Alternative transportation - public transportation access
+SS,SSc4.2,Alternative transportation - bicycle storage and changing rooms,cred,1,0,6,Tucker Hall,2.2,0/1,SSc4.2 - Alternative transportation - bicycle storage and changing rooms
+SS,SSc4.3,Alternative transportation - low emitting and fuel efficient vehicles,cred,1,0,6,Tucker Hall,2.2,0/1,SSc4.3 - Alternative transportation - low emitting and fuel efficient vehicles
+SS,SSc4.4,Alternative transportation - parking capacity,cred,1,1,6,Tucker Hall,2.2,1/1,SSc4.4 - Alternative transportation - parking capacity
+SS,SSc5.1,Site development - protect or restore habitat,cred,1,0,6,Tucker Hall,2.2,0/1,SSc5.1 - Site development - protect or restore habitat
+SS,SSc5.2,Site development - maximize open space,cred,1,1,6,Tucker Hall,2.2,1/1,SSc5.2 - Site development - maximize open space
+SS,SSc6.1,Stormwater design - quantity control,cred,1,1,6,Tucker Hall,2.2,1/1,SSc6.1 - Stormwater design - quantity control
+SS,SSc6.2,Stormwater design - quality control,cred,1,1,6,Tucker Hall,2.2,1/1,SSc6.2 - Stormwater design - quality control
+SS,SSc7.1,Heat island effect - non-roof,cred,1,1,6,Tucker Hall,2.2,1/1,SSc7.1 - Heat island effect - non-roof
+SS,SSc7.2,Heat island effect - roof,cred,1,0,6,Tucker Hall,2.2,0/1,SSc7.2 - Heat island effect - roof
+SS,SSc8,Light pollution reduction,cred,1,0,6,Tucker Hall,2.2,0/1,SSc8 - Light pollution reduction
+WE,WE,Water Efficiency,cat,5,4,6,Tucker Hall,2.2,4/5,WE - Water Efficiency
+WE,WEc1.1,Water efficient landscaping - reduce by 50%,cred,1,1,6,Tucker Hall,2.2,1/1,WEc1.1 - Water efficient landscaping - reduce by 50%
+WE,WEc1.2,Water efficient landscaping - no potable water use or no irrigation,cred,1,1,6,Tucker Hall,2.2,1/1,WEc1.2 - Water efficient landscaping - no potable water use or no irrigation
+WE,WEc2,Innovative wastewater technologies,cred,1,0,6,Tucker Hall,2.2,0/1,WEc2 - Innovative wastewater technologies
+WE,WEc3.1,Water use reduction - 20% reduction,cred,1,1,6,Tucker Hall,2.2,1/1,WEc3.1 - Water use reduction - 20% reduction
+WE,WEc3.2,Water use reduction - 30% reduction,cred,1,1,6,Tucker Hall,2.2,1/1,WEc3.2 - Water use reduction - 30% reduction
+EA,EA,Energy and atmosphere,cat,17,6,6,Tucker Hall,2.2,6/17,EA - Energy and atmosphere
+EA,EAp1,Fundamental commissioning of the building energy systems,prereq,0,0,6,Tucker Hall,2.2,prerequisite,EAp1 - Fundamental commissioning of the building energy systems
+EA,EAp2,Minimum energy performance,prereq,0,0,6,Tucker Hall,2.2,prerequisite,EAp2 - Minimum energy performance
+EA,EAp3,Fundamental refrigerant Mgmt,prereq,0,0,6,Tucker Hall,2.2,prerequisite,EAp3 - Fundamental refrigerant Mgmt
+EA,EAc1,Optimize energy performance,cred,10,4,6,Tucker Hall,2.2,4/10,EAc1 - Optimize energy performance
+EA,EAc2,On-site renewable energy,cred,3,0,6,Tucker Hall,2.2,0/3,EAc2 - On-site renewable energy
+EA,EAc3,Enhanced commissioning,cred,1,1,6,Tucker Hall,2.2,1/1,EAc3 - Enhanced commissioning
+EA,EAc4,Enhaned refrigerant Mgmt,cred,1,1,6,Tucker Hall,2.2,1/1,EAc4 - Enhaned refrigerant Mgmt
+EA,EAc5,Measurement and verification,cred,1,0,6,Tucker Hall,2.2,0/1,EAc5 - Measurement and verification
+EA,EAc6,Green power,cred,1,0,6,Tucker Hall,2.2,0/1,EAc6 - Green power
+MR,MR,Material and Resources,cat,13,5,6,Tucker Hall,2.2,5/13,MR - Material and Resources
+MR,MRp1,Storage and collection of recyclables,prereq,0,0,6,Tucker Hall,2.2,prerequisite,MRp1 - Storage and collection of recyclables
+MR,MRc1.1,"Bulding reuse - maintain 75% of existing walls, floors, and roof",cred,1,1,6,Tucker Hall,2.2,1/1,"MRc1.1 - Bulding reuse - maintain 75% of existing walls, floors, and roof"
+MR,MRc1.2,"Building reuse - maintain 95% of existing walls, floors, and roof",cred,1,0,6,Tucker Hall,2.2,0/1,"MRc1.2 - Building reuse - maintain 95% of existing walls, floors, and roof"
+MR,MRc1.3,Building reuse - maintain 50% of interior non-structural elements,cred,1,0,6,Tucker Hall,2.2,0/1,MRc1.3 - Building reuse - maintain 50% of interior non-structural elements
+MR,MRc2.1,Construction waste Mgmt - divert 50% from disposal,cred,1,1,6,Tucker Hall,2.2,1/1,MRc2.1 - Construction waste Mgmt - divert 50% from disposal
+MR,MRc2.2,Construction waste Mgmt - divert 75% from disposal,cred,1,1,6,Tucker Hall,2.2,1/1,MRc2.2 - Construction waste Mgmt - divert 75% from disposal
+MR,MRc3.1,Materials reuse - 5%,cred,1,0,6,Tucker Hall,2.2,0/1,MRc3.1 - Materials reuse - 5%
+MR,MRc3.2,Materials reuse - 10%,cred,1,0,6,Tucker Hall,2.2,0/1,MRc3.2 - Materials reuse - 10%
+MR,MRc4.1,Recycled content - 10% (post-consumer + 1/2 pre-consumer),cred,1,1,6,Tucker Hall,2.2,1/1,MRc4.1 - Recycled content - 10% (post-consumer + 1/2 pre-consumer)
+MR,MRc4.2,Recycled content - 20% (post-consumer + 1/2 pre-consumer),cred,1,0,6,Tucker Hall,2.2,0/1,MRc4.2 - Recycled content - 20% (post-consumer + 1/2 pre-consumer)
+MR,MRc5.1,"Regional materials - 10% extracted, processed, and manufactured regiona...",cred,1,1,6,Tucker Hall,2.2,1/1,"MRc5.1 - Regional materials - 10% extracted, processed, and manufactured regiona..."
+MR,MRc5.2,"Regional materials - 20% extracted, processed, and manufactured regiona...",cred,1,0,6,Tucker Hall,2.2,0/1,"MRc5.2 - Regional materials - 20% extracted, processed, and manufactured regiona..."
+MR,MRc6,Rapidly renewable materials,cred,1,0,6,Tucker Hall,2.2,0/1,MRc6 - Rapidly renewable materials
+MR,MRc7,Certified wood,cred,1,0,6,Tucker Hall,2.2,0/1,MRc7 - Certified wood
+EQ,EQ,Indoor Environmental Quality,cat,15,11,6,Tucker Hall,2.2,11/15,EQ - Indoor Environmental Quality
+EQ,EQp1,Minimum IAQ performance,prereq,0,0,6,Tucker Hall,2.2,prerequisite,EQp1 - Minimum IAQ performance
+EQ,EQp2,Environmental Tobacco Smoke (ETS) control,prereq,0,0,6,Tucker Hall,2.2,prerequisite,EQp2 - Environmental Tobacco Smoke (ETS) control
+EQ,EQc1 ,Outdoor air delivery monitoring,cred,1,1,6,Tucker Hall,2.2,1/1,EQc1  - Outdoor air delivery monitoring
+EQ,EQc2 ,Increased ventilation,cred,1,0,6,Tucker Hall,2.2,0/1,EQc2  - Increased ventilation
+EQ,EQc3.1,Construction IAQ Mgmt plan - during contruction,cred,1,1,6,Tucker Hall,2.2,1/1,EQc3.1 - Construction IAQ Mgmt plan - during contruction
+EQ,EQc3.2,Construction IAQ Mgmt plan - before occupancy,cred,1,0,6,Tucker Hall,2.2,0/1,EQc3.2 - Construction IAQ Mgmt plan - before occupancy
+EQ,EQc4.1,Low-emitting materials - adhesives and sealants,cred,1,1,6,Tucker Hall,2.2,1/1,EQc4.1 - Low-emitting materials - adhesives and sealants
+EQ,EQc4.2,Low-emitting materials - paints and coatings,cred,1,1,6,Tucker Hall,2.2,1/1,EQc4.2 - Low-emitting materials - paints and coatings
+EQ,EQc4.3,Low-emitting materials - carpet systems,cred,1,1,6,Tucker Hall,2.2,1/1,EQc4.3 - Low-emitting materials - carpet systems
+EQ,EQc4.4,Low-emitting materials - composite wood and agrifiber products,cred,1,1,6,Tucker Hall,2.2,1/1,EQc4.4 - Low-emitting materials - composite wood and agrifiber products
+EQ,EQc5,Indoor chemical and pollutant source control,cred,1,1,6,Tucker Hall,2.2,1/1,EQc5 - Indoor chemical and pollutant source control
+EQ,EQc6.1,Controllability of systems - lighting,cred,1,1,6,Tucker Hall,2.2,1/1,EQc6.1 - Controllability of systems - lighting
+EQ,EQc6.2,Controllability of systems - thermal comfort,cred,1,1,6,Tucker Hall,2.2,1/1,EQc6.2 - Controllability of systems - thermal comfort
+EQ,EQc7.1 ,Thermal comfort - design,cred,1,1,6,Tucker Hall,2.2,1/1,EQc7.1  - Thermal comfort - design
+EQ,EQc7.2,Thermal comfort - verification,cred,1,1,6,Tucker Hall,2.2,1/1,EQc7.2 - Thermal comfort - verification
+EQ,EQc8.1 ,Daylight and views - daylight 75% of spaces,cred,1,0,6,Tucker Hall,2.2,0/1,EQc8.1  - Daylight and views - daylight 75% of spaces
+EQ,EQc8.2,Daylight and views - daylight 90% of spaces,cred,1,0,6,Tucker Hall,2.2,0/1,EQc8.2 - Daylight and views - daylight 90% of spaces
+ID,ID,Innovation,cat,6,5,6,Tucker Hall,2.2,5/6,ID - Innovation
+ID,IDc1,Innovation in design,cred,4,4,6,Tucker Hall,2.2,4/4,IDc1 - Innovation in design
+ID,IDc2,LEED Accredited Professional,cred,1,1,6,Tucker Hall,2.2,1/1,IDc2 - LEED Accredited Professional
+TO,TO,Total,cat,69,40,6,Tucker Hall,2.2,40/69,TO - Total
+SS,SS,Sustainable sites,cat,14,10,5,School of Education,2.2,10/14,SS - Sustainable sites
+SS,SSp1,Construction activity pollution prevention,prereq,0,0,5,School of Education,2.2,prerequisite,SSp1 - Construction activity pollution prevention
+SS,SSc1,Site selection,cred,1,1,5,School of Education,2.2,1/1,SSc1 - Site selection
+SS,SSc2,Development density and community connectivity ,cred,1,1,5,School of Education,2.2,1/1,SSc2 - Development density and community connectivity 
+SS,SSc3,Brownfield redevelopment,cred,1,1,5,School of Education,2.2,1/1,SSc3 - Brownfield redevelopment
+SS,SSc4.1,Alternative transportation - public transportation access,cred,1,1,5,School of Education,2.2,1/1,SSc4.1 - Alternative transportation - public transportation access
+SS,SSc4.2,Alternative transportation - bicycle storage and changing rooms,cred,1,1,5,School of Education,2.2,1/1,SSc4.2 - Alternative transportation - bicycle storage and changing rooms
+SS,SSc4.3,Alternative transportation - low emitting and fuel efficient vehicles,cred,1,1,5,School of Education,2.2,1/1,SSc4.3 - Alternative transportation - low emitting and fuel efficient vehicles
+SS,SSc4.4,Alternative transportation - parking capacity,cred,1,1,5,School of Education,2.2,1/1,SSc4.4 - Alternative transportation - parking capacity
+SS,SSc5.1,Site development - protect or restore habitat,cred,1,0,5,School of Education,2.2,0/1,SSc5.1 - Site development - protect or restore habitat
+SS,SSc5.2,Site development - maximize open space,cred,1,1,5,School of Education,2.2,1/1,SSc5.2 - Site development - maximize open space
+SS,SSc6.1,Stormwater design - quantity control,cred,1,1,5,School of Education,2.2,1/1,SSc6.1 - Stormwater design - quantity control
+SS,SSc6.2,Stormwater design - quality control,cred,1,1,5,School of Education,2.2,1/1,SSc6.2 - Stormwater design - quality control
+SS,SSc7.1,Heat island effect - non-roof,cred,1,0,5,School of Education,2.2,0/1,SSc7.1 - Heat island effect - non-roof
+SS,SSc7.2,Heat island effect - roof,cred,1,0,5,School of Education,2.2,0/1,SSc7.2 - Heat island effect - roof
+SS,SSc8,Light pollution reduction,cred,1,0,5,School of Education,2.2,0/1,SSc8 - Light pollution reduction
+WE,WE,Water Efficiency,cat,5,2,5,School of Education,2.2,2/5,WE - Water Efficiency
+WE,WEc1.1,Water efficient landscaping - reduce by 50%,cred,1,0,5,School of Education,2.2,0/1,WEc1.1 - Water efficient landscaping - reduce by 50%
+WE,WEc1.2,Water efficient landscaping - no potable water use or no irrigation,cred,1,0,5,School of Education,2.2,0/1,WEc1.2 - Water efficient landscaping - no potable water use or no irrigation
+WE,WEc2,Innovative wastewater technologies,cred,1,0,5,School of Education,2.2,0/1,WEc2 - Innovative wastewater technologies
+WE,WEc3.1,Water use reduction - 20% reduction,cred,1,1,5,School of Education,2.2,1/1,WEc3.1 - Water use reduction - 20% reduction
+WE,WEc3.2,Water use reduction - 30% reduction,cred,1,1,5,School of Education,2.2,1/1,WEc3.2 - Water use reduction - 30% reduction
+EA,EA,Energy and atmosphere,cat,17,4,5,School of Education,2.2,4/17,EA - Energy and atmosphere
+EA,EAp1,Fundamental commissioning of the building energy systems,prereq,0,0,5,School of Education,2.2,prerequisite,EAp1 - Fundamental commissioning of the building energy systems
+EA,EAp2,Minimum energy performance,prereq,0,0,5,School of Education,2.2,prerequisite,EAp2 - Minimum energy performance
+EA,EAp3,Fundamental refrigerant Mgmt,prereq,0,0,5,School of Education,2.2,prerequisite,EAp3 - Fundamental refrigerant Mgmt
+EA,EAc1,Optimize energy performance,cred,10,2,5,School of Education,2.2,2/10,EAc1 - Optimize energy performance
+EA,EAc2,On-site renewable energy,cred,3,0,5,School of Education,2.2,0/3,EAc2 - On-site renewable energy
+EA,EAc3,Enhanced commissioning,cred,1,1,5,School of Education,2.2,1/1,EAc3 - Enhanced commissioning
+EA,EAc4,Enhaned refrigerant Mgmt,cred,1,0,5,School of Education,2.2,0/1,EAc4 - Enhaned refrigerant Mgmt
+EA,EAc5,Measurement and verification,cred,1,0,5,School of Education,2.2,0/1,EAc5 - Measurement and verification
+EA,EAc6,Green power,cred,1,1,5,School of Education,2.2,1/1,EAc6 - Green power
+MR,MR,Material and Resources,cat,13,7,5,School of Education,2.2,7/13,MR - Material and Resources
+MR,MRp1,Storage and collection of recyclables,prereq,0,0,5,School of Education,2.2,prerequisite,MRp1 - Storage and collection of recyclables
+MR,MRc1.1,"Bulding reuse - maintain 75% of existing walls, floors, and roof",cred,1,0,5,School of Education,2.2,0/1,"MRc1.1 - Bulding reuse - maintain 75% of existing walls, floors, and roof"
+MR,MRc1.2,"Building reuse - maintain 95% of existing walls, floors, and roof",cred,1,0,5,School of Education,2.2,0/1,"MRc1.2 - Building reuse - maintain 95% of existing walls, floors, and roof"
+MR,MRc1.3,Building reuse - maintain 50% of interior non-structural elements,cred,1,0,5,School of Education,2.2,0/1,MRc1.3 - Building reuse - maintain 50% of interior non-structural elements
+MR,MRc2.1,Construction waste Mgmt - divert 50% from disposal,cred,1,1,5,School of Education,2.2,1/1,MRc2.1 - Construction waste Mgmt - divert 50% from disposal
+MR,MRc2.2,Construction waste Mgmt - divert 75% from disposal,cred,1,1,5,School of Education,2.2,1/1,MRc2.2 - Construction waste Mgmt - divert 75% from disposal
+MR,MRc3.1,Materials reuse - 5%,cred,1,0,5,School of Education,2.2,0/1,MRc3.1 - Materials reuse - 5%
+MR,MRc3.2,Materials reuse - 10%,cred,1,0,5,School of Education,2.2,0/1,MRc3.2 - Materials reuse - 10%
+MR,MRc4.1,Recycled content - 10% (post-consumer + 1/2 pre-consumer),cred,1,2,5,School of Education,2.2,2/1,MRc4.1 - Recycled content - 10% (post-consumer + 1/2 pre-consumer)
+MR,MRc4.2,Recycled content - 20% (post-consumer + 1/2 pre-consumer),cred,1,0,5,School of Education,2.2,0/1,MRc4.2 - Recycled content - 20% (post-consumer + 1/2 pre-consumer)
+MR,MRc5.1,"Regional materials - 10% extracted, processed, and manufactured regiona...",cred,1,1,5,School of Education,2.2,1/1,"MRc5.1 - Regional materials - 10% extracted, processed, and manufactured regiona..."
+MR,MRc5.2,"Regional materials - 20% extracted, processed, and manufactured regiona...",cred,1,1,5,School of Education,2.2,1/1,"MRc5.2 - Regional materials - 20% extracted, processed, and manufactured regiona..."
+MR,MRc6,Rapidly renewable materials,cred,1,0,5,School of Education,2.2,0/1,MRc6 - Rapidly renewable materials
+MR,MRc7,Certified wood,cred,1,1,5,School of Education,2.2,1/1,MRc7 - Certified wood
+EQ,EQ,Indoor Environmental Quality,cat,15,11,5,School of Education,2.2,11/15,EQ - Indoor Environmental Quality
+EQ,EQp1,Minimum IAQ performance,prereq,0,0,5,School of Education,2.2,prerequisite,EQp1 - Minimum IAQ performance
+EQ,EQp2,Environmental Tobacco Smoke (ETS) control,prereq,0,0,5,School of Education,2.2,prerequisite,EQp2 - Environmental Tobacco Smoke (ETS) control
+EQ,EQc1 ,Outdoor air delivery monitoring,cred,1,1,5,School of Education,2.2,1/1,EQc1  - Outdoor air delivery monitoring
+EQ,EQc2 ,Increased ventilation,cred,1,0,5,School of Education,2.2,0/1,EQc2  - Increased ventilation
+EQ,EQc3.1,Construction IAQ Mgmt plan - during contruction,cred,1,1,5,School of Education,2.2,1/1,EQc3.1 - Construction IAQ Mgmt plan - during contruction
+EQ,EQc3.2,Construction IAQ Mgmt plan - before occupancy,cred,1,1,5,School of Education,2.2,1/1,EQc3.2 - Construction IAQ Mgmt plan - before occupancy
+EQ,EQc4.1,Low-emitting materials - adhesives and sealants,cred,1,1,5,School of Education,2.2,1/1,EQc4.1 - Low-emitting materials - adhesives and sealants
+EQ,EQc4.2,Low-emitting materials - paints and coatings,cred,1,1,5,School of Education,2.2,1/1,EQc4.2 - Low-emitting materials - paints and coatings
+EQ,EQc4.3,Low-emitting materials - carpet systems,cred,1,1,5,School of Education,2.2,1/1,EQc4.3 - Low-emitting materials - carpet systems
+EQ,EQc4.4,Low-emitting materials - composite wood and agrifiber products,cred,1,1,5,School of Education,2.2,1/1,EQc4.4 - Low-emitting materials - composite wood and agrifiber products
+EQ,EQc5,Indoor chemical and pollutant source control,cred,1,0,5,School of Education,2.2,0/1,EQc5 - Indoor chemical and pollutant source control
+EQ,EQc6.1,Controllability of systems - lighting,cred,1,1,5,School of Education,2.2,1/1,EQc6.1 - Controllability of systems - lighting
+EQ,EQc6.2,Controllability of systems - thermal comfort,cred,1,1,5,School of Education,2.2,1/1,EQc6.2 - Controllability of systems - thermal comfort
+EQ,EQc7.1 ,Thermal comfort - design,cred,1,1,5,School of Education,2.2,1/1,EQc7.1  - Thermal comfort - design
+EQ,EQc7.2,Thermal comfort - verification,cred,1,1,5,School of Education,2.2,1/1,EQc7.2 - Thermal comfort - verification
+EQ,EQc8.1 ,Daylight and views - daylight 75% of spaces,cred,1,0,5,School of Education,2.2,0/1,EQc8.1  - Daylight and views - daylight 75% of spaces
+EQ,EQc8.2,Daylight and views - daylight 90% of spaces,cred,1,0,5,School of Education,2.2,0/1,EQc8.2 - Daylight and views - daylight 90% of spaces
+ID,ID,Innovation,cat,6,5,5,School of Education,2.2,5/6,ID - Innovation
+ID,IDc1,Innovation in design,cred,4,4,5,School of Education,2.2,4/4,IDc1 - Innovation in design
+ID,IDc2,LEED Accredited Professional,cred,1,1,5,School of Education,2.2,1/1,IDc2 - LEED Accredited Professional
+TO,TO,Total,cat,69,39,5,School of Education,2.2,39/69,TO - Total
+SS,SS,Sustainable sites,cat,14,10,4,Miller Hall (Mason School of Business,2.2,10/14,SS - Sustainable sites
+SS,SSp1,Construction activity pollution prevention,prereq,0,0,4,Miller Hall (Mason School of Business,2.2,prerequisite,SSp1 - Construction activity pollution prevention
+SS,SSc1,Site selection,cred,1,1,4,Miller Hall (Mason School of Business,2.2,1/1,SSc1 - Site selection
+SS,SSc2,Development density and community connectivity ,cred,1,1,4,Miller Hall (Mason School of Business,2.2,1/1,SSc2 - Development density and community connectivity 
+SS,SSc3,Brownfield redevelopment,cred,1,0,4,Miller Hall (Mason School of Business,2.2,0/1,SSc3 - Brownfield redevelopment
+SS,SSc4.1,Alternative transportation - public transportation access,cred,1,1,4,Miller Hall (Mason School of Business,2.2,1/1,SSc4.1 - Alternative transportation - public transportation access
+SS,SSc4.2,Alternative transportation - bicycle storage and changing rooms,cred,1,1,4,Miller Hall (Mason School of Business,2.2,1/1,SSc4.2 - Alternative transportation - bicycle storage and changing rooms
+SS,SSc4.3,Alternative transportation - low emitting and fuel efficient vehicles,cred,1,1,4,Miller Hall (Mason School of Business,2.2,1/1,SSc4.3 - Alternative transportation - low emitting and fuel efficient vehicles
+SS,SSc4.4,Alternative transportation - parking capacity,cred,1,1,4,Miller Hall (Mason School of Business,2.2,1/1,SSc4.4 - Alternative transportation - parking capacity
+SS,SSc5.1,Site development - protect or restore habitat,cred,1,1,4,Miller Hall (Mason School of Business,2.2,1/1,SSc5.1 - Site development - protect or restore habitat
+SS,SSc5.2,Site development - maximize open space,cred,1,1,4,Miller Hall (Mason School of Business,2.2,1/1,SSc5.2 - Site development - maximize open space
+SS,SSc6.1,Stormwater design - quantity control,cred,1,1,4,Miller Hall (Mason School of Business,2.2,1/1,SSc6.1 - Stormwater design - quantity control
+SS,SSc6.2,Stormwater design - quality control,cred,1,0,4,Miller Hall (Mason School of Business,2.2,0/1,SSc6.2 - Stormwater design - quality control
+SS,SSc7.1,Heat island effect - non-roof,cred,1,1,4,Miller Hall (Mason School of Business,2.2,1/1,SSc7.1 - Heat island effect - non-roof
+SS,SSc7.2,Heat island effect - roof,cred,1,0,4,Miller Hall (Mason School of Business,2.2,0/1,SSc7.2 - Heat island effect - roof
+SS,SSc8,Light pollution reduction,cred,1,0,4,Miller Hall (Mason School of Business,2.2,0/1,SSc8 - Light pollution reduction
+WE,WE,Water Efficiency,cat,5,4,4,Miller Hall (Mason School of Business,2.2,4/5,WE - Water Efficiency
+WE,WEc1.1,Water efficient landscaping - reduce by 50%,cred,1,1,4,Miller Hall (Mason School of Business,2.2,1/1,WEc1.1 - Water efficient landscaping - reduce by 50%
+WE,WEc1.2,Water efficient landscaping - no potable water use or no irrigation,cred,1,1,4,Miller Hall (Mason School of Business,2.2,1/1,WEc1.2 - Water efficient landscaping - no potable water use or no irrigation
+WE,WEc2,Innovative wastewater technologies,cred,1,0,4,Miller Hall (Mason School of Business,2.2,0/1,WEc2 - Innovative wastewater technologies
+WE,WEc3.1,Water use reduction - 20% reduction,cred,1,1,4,Miller Hall (Mason School of Business,2.2,1/1,WEc3.1 - Water use reduction - 20% reduction
+WE,WEc3.2,Water use reduction - 30% reduction,cred,1,1,4,Miller Hall (Mason School of Business,2.2,1/1,WEc3.2 - Water use reduction - 30% reduction
+EA,EA,Energy and atmosphere,cat,17,6,4,Miller Hall (Mason School of Business,2.2,6/17,EA - Energy and atmosphere
+EA,EAp1,Fundamental commissioning of the building energy systems,prereq,0,0,4,Miller Hall (Mason School of Business,2.2,prerequisite,EAp1 - Fundamental commissioning of the building energy systems
+EA,EAp2,Minimum energy performance,prereq,0,0,4,Miller Hall (Mason School of Business,2.2,prerequisite,EAp2 - Minimum energy performance
+EA,EAp3,Fundamental refrigerant Mgmt,prereq,0,0,4,Miller Hall (Mason School of Business,2.2,prerequisite,EAp3 - Fundamental refrigerant Mgmt
+EA,EAc1,Optimize energy performance,cred,10,4,4,Miller Hall (Mason School of Business,2.2,4/10,EAc1 - Optimize energy performance
+EA,EAc2,On-site renewable energy,cred,3,0,4,Miller Hall (Mason School of Business,2.2,0/3,EAc2 - On-site renewable energy
+EA,EAc3,Enhanced commissioning,cred,1,1,4,Miller Hall (Mason School of Business,2.2,1/1,EAc3 - Enhanced commissioning
+EA,EAc4,Enhaned refrigerant Mgmt,cred,1,0,4,Miller Hall (Mason School of Business,2.2,0/1,EAc4 - Enhaned refrigerant Mgmt
+EA,EAc5,Measurement and verification,cred,1,0,4,Miller Hall (Mason School of Business,2.2,0/1,EAc5 - Measurement and verification
+EA,EAc6,Green power,cred,1,1,4,Miller Hall (Mason School of Business,2.2,1/1,EAc6 - Green power
+MR,MR,Material and Resources,cat,13,7,4,Miller Hall (Mason School of Business,2.2,7/13,MR - Material and Resources
+MR,MRp1,Storage and collection of recyclables,prereq,0,0,4,Miller Hall (Mason School of Business,2.2,prerequisite,MRp1 - Storage and collection of recyclables
+MR,MRc1.1,"Bulding reuse - maintain 75% of existing walls, floors, and roof",cred,1,0,4,Miller Hall (Mason School of Business,2.2,0/1,"MRc1.1 - Bulding reuse - maintain 75% of existing walls, floors, and roof"
+MR,MRc1.2,"Building reuse - maintain 95% of existing walls, floors, and roof",cred,1,0,4,Miller Hall (Mason School of Business,2.2,0/1,"MRc1.2 - Building reuse - maintain 95% of existing walls, floors, and roof"
+MR,MRc1.3,Building reuse - maintain 50% of interior non-structural elements,cred,1,0,4,Miller Hall (Mason School of Business,2.2,0/1,MRc1.3 - Building reuse - maintain 50% of interior non-structural elements
+MR,MRc2.1,Construction waste Mgmt - divert 50% from disposal,cred,1,1,4,Miller Hall (Mason School of Business,2.2,1/1,MRc2.1 - Construction waste Mgmt - divert 50% from disposal
+MR,MRc2.2,Construction waste Mgmt - divert 75% from disposal,cred,1,1,4,Miller Hall (Mason School of Business,2.2,1/1,MRc2.2 - Construction waste Mgmt - divert 75% from disposal
+MR,MRc3.1,Materials reuse - 5%,cred,1,0,4,Miller Hall (Mason School of Business,2.2,0/1,MRc3.1 - Materials reuse - 5%
+MR,MRc3.2,Materials reuse - 10%,cred,1,0,4,Miller Hall (Mason School of Business,2.2,0/1,MRc3.2 - Materials reuse - 10%
+MR,MRc4.1,Recycled content - 10% (post-consumer + 1/2 pre-consumer),cred,1,2,4,Miller Hall (Mason School of Business,2.2,2/1,MRc4.1 - Recycled content - 10% (post-consumer + 1/2 pre-consumer)
+MR,MRc4.2,Recycled content - 20% (post-consumer + 1/2 pre-consumer),cred,1,0,4,Miller Hall (Mason School of Business,2.2,0/1,MRc4.2 - Recycled content - 20% (post-consumer + 1/2 pre-consumer)
+MR,MRc5.1,"Regional materials - 10% extracted, processed, and manufactured regiona...",cred,1,1,4,Miller Hall (Mason School of Business,2.2,1/1,"MRc5.1 - Regional materials - 10% extracted, processed, and manufactured regiona..."
+MR,MRc5.2,"Regional materials - 20% extracted, processed, and manufactured regiona...",cred,1,1,4,Miller Hall (Mason School of Business,2.2,1/1,"MRc5.2 - Regional materials - 20% extracted, processed, and manufactured regiona..."
+MR,MRc6,Rapidly renewable materials,cred,1,0,4,Miller Hall (Mason School of Business,2.2,0/1,MRc6 - Rapidly renewable materials
+MR,MRc7,Certified wood,cred,1,1,4,Miller Hall (Mason School of Business,2.2,1/1,MRc7 - Certified wood
+EQ,EQ,Indoor Environmental Quality,cat,15,11,4,Miller Hall (Mason School of Business,2.2,11/15,EQ - Indoor Environmental Quality
+EQ,EQp1,Minimum IAQ performance,prereq,0,0,4,Miller Hall (Mason School of Business,2.2,prerequisite,EQp1 - Minimum IAQ performance
+EQ,EQp2,Environmental Tobacco Smoke (ETS) control,prereq,0,0,4,Miller Hall (Mason School of Business,2.2,prerequisite,EQp2 - Environmental Tobacco Smoke (ETS) control
+EQ,EQc1 ,Outdoor air delivery monitoring,cred,1,1,4,Miller Hall (Mason School of Business,2.2,1/1,EQc1  - Outdoor air delivery monitoring
+EQ,EQc2 ,Increased ventilation,cred,1,0,4,Miller Hall (Mason School of Business,2.2,0/1,EQc2  - Increased ventilation
+EQ,EQc3.1,Construction IAQ Mgmt plan - during contruction,cred,1,1,4,Miller Hall (Mason School of Business,2.2,1/1,EQc3.1 - Construction IAQ Mgmt plan - during contruction
+EQ,EQc3.2,Construction IAQ Mgmt plan - before occupancy,cred,1,1,4,Miller Hall (Mason School of Business,2.2,1/1,EQc3.2 - Construction IAQ Mgmt plan - before occupancy
+EQ,EQc4.1,Low-emitting materials - adhesives and sealants,cred,1,1,4,Miller Hall (Mason School of Business,2.2,1/1,EQc4.1 - Low-emitting materials - adhesives and sealants
+EQ,EQc4.2,Low-emitting materials - paints and coatings,cred,1,1,4,Miller Hall (Mason School of Business,2.2,1/1,EQc4.2 - Low-emitting materials - paints and coatings
+EQ,EQc4.3,Low-emitting materials - carpet systems,cred,1,1,4,Miller Hall (Mason School of Business,2.2,1/1,EQc4.3 - Low-emitting materials - carpet systems
+EQ,EQc4.4,Low-emitting materials - composite wood and agrifiber products,cred,1,1,4,Miller Hall (Mason School of Business,2.2,1/1,EQc4.4 - Low-emitting materials - composite wood and agrifiber products
+EQ,EQc5,Indoor chemical and pollutant source control,cred,1,0,4,Miller Hall (Mason School of Business,2.2,0/1,EQc5 - Indoor chemical and pollutant source control
+EQ,EQc6.1,Controllability of systems - lighting,cred,1,1,4,Miller Hall (Mason School of Business,2.2,1/1,EQc6.1 - Controllability of systems - lighting
+EQ,EQc6.2,Controllability of systems - thermal comfort,cred,1,1,4,Miller Hall (Mason School of Business,2.2,1/1,EQc6.2 - Controllability of systems - thermal comfort
+EQ,EQc7.1 ,Thermal comfort - design,cred,1,1,4,Miller Hall (Mason School of Business,2.2,1/1,EQc7.1  - Thermal comfort - design
+EQ,EQc7.2,Thermal comfort - verification,cred,1,1,4,Miller Hall (Mason School of Business,2.2,1/1,EQc7.2 - Thermal comfort - verification
+EQ,EQc8.1 ,Daylight and views - daylight 75% of spaces,cred,1,0,4,Miller Hall (Mason School of Business,2.2,0/1,EQc8.1  - Daylight and views - daylight 75% of spaces
+EQ,EQc8.2,Daylight and views - daylight 90% of spaces,cred,1,0,4,Miller Hall (Mason School of Business,2.2,0/1,EQc8.2 - Daylight and views - daylight 90% of spaces
+ID,ID,Innovation,cat,6,4,4,Miller Hall (Mason School of Business,2.2,4/6,ID - Innovation
+ID,IDc1,Innovation in design,cred,4,3,4,Miller Hall (Mason School of Business,2.2,3/4,IDc1 - Innovation in design
+ID,IDc2,LEED Accredited Professional,cred,1,1,4,Miller Hall (Mason School of Business,2.2,1/1,IDc2 - LEED Accredited Professional
+TO,TO,Total,cat,69,42,4,Miller Hall (Mason School of Business,2.2,42/69,TO - Total
+SS,SS,Sustainable sites,cat,14,9,3,Cohen Career Center,2.2,9/14,SS - Sustainable sites
+SS,SSp1,Construction activity pollution prevention,prereq,0,0,3,Cohen Career Center,2.2,prerequisite,SSp1 - Construction activity pollution prevention
+SS,SSc1,Site selection,cred,1,1,3,Cohen Career Center,2.2,1/1,SSc1 - Site selection
+SS,SSc2,Development density and community connectivity ,cred,1,1,3,Cohen Career Center,2.2,1/1,SSc2 - Development density and community connectivity 
+SS,SSc3,Brownfield redevelopment,cred,1,0,3,Cohen Career Center,2.2,0/1,SSc3 - Brownfield redevelopment
+SS,SSc4.1,Alternative transportation - public transportation access,cred,1,1,3,Cohen Career Center,2.2,1/1,SSc4.1 - Alternative transportation - public transportation access
+SS,SSc4.2,Alternative transportation - bicycle storage and changing rooms,cred,1,1,3,Cohen Career Center,2.2,1/1,SSc4.2 - Alternative transportation - bicycle storage and changing rooms
+SS,SSc4.3,Alternative transportation - low emitting and fuel efficient vehicles,cred,1,0,3,Cohen Career Center,2.2,0/1,SSc4.3 - Alternative transportation - low emitting and fuel efficient vehicles
+SS,SSc4.4,Alternative transportation - parking capacity,cred,1,1,3,Cohen Career Center,2.2,1/1,SSc4.4 - Alternative transportation - parking capacity
+SS,SSc5.1,Site development - protect or restore habitat,cred,1,0,3,Cohen Career Center,2.2,0/1,SSc5.1 - Site development - protect or restore habitat
+SS,SSc5.2,Site development - maximize open space,cred,1,1,3,Cohen Career Center,2.2,1/1,SSc5.2 - Site development - maximize open space
+SS,SSc6.1,Stormwater design - quantity control,cred,1,0,3,Cohen Career Center,2.2,0/1,SSc6.1 - Stormwater design - quantity control
+SS,SSc6.2,Stormwater design - quality control,cred,1,1,3,Cohen Career Center,2.2,1/1,SSc6.2 - Stormwater design - quality control
+SS,SSc7.1,Heat island effect - non-roof,cred,1,1,3,Cohen Career Center,2.2,1/1,SSc7.1 - Heat island effect - non-roof
+SS,SSc7.2,Heat island effect - roof,cred,1,0,3,Cohen Career Center,2.2,0/1,SSc7.2 - Heat island effect - roof
+SS,SSc8,Light pollution reduction,cred,1,1,3,Cohen Career Center,2.2,1/1,SSc8 - Light pollution reduction
+WE,WE,Water Efficiency,cat,5,4,3,Cohen Career Center,2.2,4/5,WE - Water Efficiency
+WE,WEc1.1,Water efficient landscaping - reduce by 50%,cred,1,1,3,Cohen Career Center,2.2,1/1,WEc1.1 - Water efficient landscaping - reduce by 50%
+WE,WEc1.2,Water efficient landscaping - no potable water use or no irrigation,cred,1,1,3,Cohen Career Center,2.2,1/1,WEc1.2 - Water efficient landscaping - no potable water use or no irrigation
+WE,WEc2,Innovative wastewater technologies,cred,1,0,3,Cohen Career Center,2.2,0/1,WEc2 - Innovative wastewater technologies
+WE,WEc3.1,Water use reduction - 20% reduction,cred,1,1,3,Cohen Career Center,2.2,1/1,WEc3.1 - Water use reduction - 20% reduction
+WE,WEc3.2,Water use reduction - 30% reduction,cred,1,1,3,Cohen Career Center,2.2,1/1,WEc3.2 - Water use reduction - 30% reduction
+EA,EA,Energy and atmosphere,cat,17,9,3,Cohen Career Center,2.2,9/17,EA - Energy and atmosphere
+EA,EAp1,Fundamental commissioning of the building energy systems,prereq,0,0,3,Cohen Career Center,2.2,prerequisite,EAp1 - Fundamental commissioning of the building energy systems
+EA,EAp2,Minimum energy performance,prereq,0,0,3,Cohen Career Center,2.2,prerequisite,EAp2 - Minimum energy performance
+EA,EAp3,Fundamental refrigerant Mgmt,prereq,0,0,3,Cohen Career Center,2.2,prerequisite,EAp3 - Fundamental refrigerant Mgmt
+EA,EAc1,Optimize energy performance,cred,10,7,3,Cohen Career Center,2.2,7/10,EAc1 - Optimize energy performance
+EA,EAc2,On-site renewable energy,cred,3,0,3,Cohen Career Center,2.2,0/3,EAc2 - On-site renewable energy
+EA,EAc3,Enhanced commissioning,cred,1,1,3,Cohen Career Center,2.2,1/1,EAc3 - Enhanced commissioning
+EA,EAc4,Enhaned refrigerant Mgmt,cred,1,1,3,Cohen Career Center,2.2,1/1,EAc4 - Enhaned refrigerant Mgmt
+EA,EAc5,Measurement and verification,cred,1,0,3,Cohen Career Center,2.2,0/1,EAc5 - Measurement and verification
+EA,EAc6,Green power,cred,1,0,3,Cohen Career Center,2.2,0/1,EAc6 - Green power
+MR,MR,Material and Resources,cat,13,0,3,Cohen Career Center,2.2,0/13,MR - Material and Resources
+MR,MRp1,Storage and collection of recyclables,prereq,0,0,3,Cohen Career Center,2.2,prerequisite,MRp1 - Storage and collection of recyclables
+MR,MRc1.1,"Bulding reuse - maintain 75% of existing walls, floors, and roof",cred,1,0,3,Cohen Career Center,2.2,0/1,"MRc1.1 - Bulding reuse - maintain 75% of existing walls, floors, and roof"
+MR,MRc1.2,"Building reuse - maintain 95% of existing walls, floors, and roof",cred,1,0,3,Cohen Career Center,2.2,0/1,"MRc1.2 - Building reuse - maintain 95% of existing walls, floors, and roof"
+MR,MRc1.3,Building reuse - maintain 50% of interior non-structural elements,cred,1,0,3,Cohen Career Center,2.2,0/1,MRc1.3 - Building reuse - maintain 50% of interior non-structural elements
+MR,MRc2.1,Construction waste Mgmt - divert 50% from disposal,cred,1,1,3,Cohen Career Center,2.2,1/1,MRc2.1 - Construction waste Mgmt - divert 50% from disposal
+MR,MRc2.2,Construction waste Mgmt - divert 75% from disposal,cred,1,1,3,Cohen Career Center,2.2,1/1,MRc2.2 - Construction waste Mgmt - divert 75% from disposal
+MR,MRc3.1,Materials reuse - 5%,cred,1,0,3,Cohen Career Center,2.2,0/1,MRc3.1 - Materials reuse - 5%
+MR,MRc3.2,Materials reuse - 10%,cred,1,0,3,Cohen Career Center,2.2,0/1,MRc3.2 - Materials reuse - 10%
+MR,MRc4.1,Recycled content - 10% (post-consumer + 1/2 pre-consumer),cred,1,0,3,Cohen Career Center,2.2,0/1,MRc4.1 - Recycled content - 10% (post-consumer + 1/2 pre-consumer)
+MR,MRc4.2,Recycled content - 20% (post-consumer + 1/2 pre-consumer),cred,1,0,3,Cohen Career Center,2.2,0/1,MRc4.2 - Recycled content - 20% (post-consumer + 1/2 pre-consumer)
+MR,MRc5.1,"Regional materials - 10% extracted, processed, and manufactured regiona...",cred,1,1,3,Cohen Career Center,2.2,1/1,"MRc5.1 - Regional materials - 10% extracted, processed, and manufactured regiona..."
+MR,MRc5.2,"Regional materials - 20% extracted, processed, and manufactured regiona...",cred,1,1,3,Cohen Career Center,2.2,1/1,"MRc5.2 - Regional materials - 20% extracted, processed, and manufactured regiona..."
+MR,MRc6,Rapidly renewable materials,cred,1,0,3,Cohen Career Center,2.2,0/1,MRc6 - Rapidly renewable materials
+MR,MRc7,Certified wood,cred,1,1,3,Cohen Career Center,2.2,1/1,MRc7 - Certified wood
+EQ,EQ,Indoor Environmental Quality,cat,15,13,3,Cohen Career Center,2.2,13/15,EQ - Indoor Environmental Quality
+EQ,EQp1,Minimum IAQ performance,prereq,0,0,3,Cohen Career Center,2.2,prerequisite,EQp1 - Minimum IAQ performance
+EQ,EQp2,Environmental Tobacco Smoke (ETS) control,prereq,0,0,3,Cohen Career Center,2.2,prerequisite,EQp2 - Environmental Tobacco Smoke (ETS) control
+EQ,EQc1 ,Outdoor air delivery monitoring,cred,1,1,3,Cohen Career Center,2.2,1/1,EQc1  - Outdoor air delivery monitoring
+EQ,EQc2 ,Increased ventilation,cred,1,1,3,Cohen Career Center,2.2,1/1,EQc2  - Increased ventilation
+EQ,EQc3.1,Construction IAQ Mgmt plan - during contruction,cred,1,1,3,Cohen Career Center,2.2,1/1,EQc3.1 - Construction IAQ Mgmt plan - during contruction
+EQ,EQc3.2,Construction IAQ Mgmt plan - before occupancy,cred,1,0,3,Cohen Career Center,2.2,0/1,EQc3.2 - Construction IAQ Mgmt plan - before occupancy
+EQ,EQc4.1,Low-emitting materials - adhesives and sealants,cred,1,1,3,Cohen Career Center,2.2,1/1,EQc4.1 - Low-emitting materials - adhesives and sealants
+EQ,EQc4.2,Low-emitting materials - paints and coatings,cred,1,1,3,Cohen Career Center,2.2,1/1,EQc4.2 - Low-emitting materials - paints and coatings
+EQ,EQc4.3,Low-emitting materials - carpet systems,cred,1,1,3,Cohen Career Center,2.2,1/1,EQc4.3 - Low-emitting materials - carpet systems
+EQ,EQc4.4,Low-emitting materials - composite wood and agrifiber products,cred,1,0,3,Cohen Career Center,2.2,0/1,EQc4.4 - Low-emitting materials - composite wood and agrifiber products
+EQ,EQc5,Indoor chemical and pollutant source control,cred,1,1,3,Cohen Career Center,2.2,1/1,EQc5 - Indoor chemical and pollutant source control
+EQ,EQc6.1,Controllability of systems - lighting,cred,1,1,3,Cohen Career Center,2.2,1/1,EQc6.1 - Controllability of systems - lighting
+EQ,EQc6.2,Controllability of systems - thermal comfort,cred,1,1,3,Cohen Career Center,2.2,1/1,EQc6.2 - Controllability of systems - thermal comfort
+EQ,EQc7.1 ,Thermal comfort - design,cred,1,1,3,Cohen Career Center,2.2,1/1,EQc7.1  - Thermal comfort - design
+EQ,EQc7.2,Thermal comfort - verification,cred,1,1,3,Cohen Career Center,2.2,1/1,EQc7.2 - Thermal comfort - verification
+EQ,EQc8.1 ,Daylight and views - daylight 75% of spaces,cred,1,1,3,Cohen Career Center,2.2,1/1,EQc8.1  - Daylight and views - daylight 75% of spaces
+EQ,EQc8.2,Daylight and views - daylight 90% of spaces,cred,1,1,3,Cohen Career Center,2.2,1/1,EQc8.2 - Daylight and views - daylight 90% of spaces
+ID,ID,Innovation,cat,6,2,3,Cohen Career Center,2.2,2/6,ID - Innovation
+ID,IDc1,Innovation in design,cred,4,1,3,Cohen Career Center,2.2,1/4,IDc1 - Innovation in design
+ID,IDc2,LEED Accredited Professional,cred,1,1,3,Cohen Career Center,2.2,1/1,IDc2 - LEED Accredited Professional
+TO,TO,Total,cat,69,42,3,Cohen Career Center,2.2,42/69,TO - Total
+SS,SS,Sustainable sites,cat,26,18,15,Greek Fraternity Community Building,3,18/26,SS - Sustainable sites
+SS,SSp1,Construction activity pollution prevention,prereq,0,0,15,Greek Fraternity Community Building,3,prerequisite,SSp1 - Construction activity pollution prevention
+SS,SSc1,Site selection,cred,1,1,15,Greek Fraternity Community Building,3,1/1,SSc1 - Site selection
+SS,SSc2,Development density and communnity connectivity,cred,5,5,15,Greek Fraternity Community Building,3,5/5,SSc2 - Development density and communnity connectivity
+SS,SSc3,Brownfield redevlopment,cred,1,0,15,Greek Fraternity Community Building,3,0/1,SSc3 - Brownfield redevlopment
+SS,SSc4.1,Alternative transportation - public transportation access,cred,6,6,15,Greek Fraternity Community Building,3,6/6,SSc4.1 - Alternative transportation - public transportation access
+SS,SSc4.2,Alternative transportation - bicycle storage and changing rooms,cred,1,0,15,Greek Fraternity Community Building,3,0/1,SSc4.2 - Alternative transportation - bicycle storage and changing rooms
+SS,SSc4.3,Alternative transportation - low emitting and fuel efficient vehicles,cred,3,3,15,Greek Fraternity Community Building,3,3/3,SSc4.3 - Alternative transportation - low emitting and fuel efficient vehicles
+SS,SSc4.4,Alternative transporation - parking capacity,cred,2,2,15,Greek Fraternity Community Building,3,2/2,SSc4.4 - Alternative transporation - parking capacity
+SS,SSc5.1,Site development - protect or restore habitat,cred,1,0,15,Greek Fraternity Community Building,3,0/1,SSc5.1 - Site development - protect or restore habitat
+SS,SSc5.2 ,Site development - maximize open space,cred,1,1,15,Greek Fraternity Community Building,3,1/1,SSc5.2  - Site development - maximize open space
+SS,SSc6.1 ,Stormwater design - quantity control,cred,1,0,15,Greek Fraternity Community Building,3,0/1,SSc6.1  - Stormwater design - quantity control
+SS,SSc6.2,Stormwater design - quality control,cred,1,0,15,Greek Fraternity Community Building,3,0/1,SSc6.2 - Stormwater design - quality control
+SS,SSc7.1 ,Heat island effect - nonroof,cred,1,0,15,Greek Fraternity Community Building,3,0/1,SSc7.1  - Heat island effect - nonroof
+SS,SSc7.2,Heat island effect - roof,cred,1,0,15,Greek Fraternity Community Building,3,0/1,SSc7.2 - Heat island effect - roof
+SS,SSc8,Light pollution reduction,cred,1,0,15,Greek Fraternity Community Building,3,0/1,SSc8 - Light pollution reduction
+WE,WE,Water efficiency,cat,10,6,15,Greek Fraternity Community Building,3,6/10,WE - Water efficiency
+WE,WEp1,Water use reduction,prereq,0,0,15,Greek Fraternity Community Building,3,prerequisite,WEp1 - Water use reduction
+WE,WEc1,Water efficient landscaping,cred,4,4,15,Greek Fraternity Community Building,3,4/4,WEc1 - Water efficient landscaping
+WE,WEc2,Innovative wastewater technologies,cred,2,0,15,Greek Fraternity Community Building,3,0/2,WEc2 - Innovative wastewater technologies
+WE,WEc3,Water use reduction,cred,4,2,15,Greek Fraternity Community Building,3,2/4,WEc3 - Water use reduction
+EA,EA,Energy and Atmosphere,cat,53,5,15,Greek Fraternity Community Building,3,5/53,EA - Energy and Atmosphere
+EA,EAp1,Fundamental commissioning of building energy systems,prereq,0,0,15,Greek Fraternity Community Building,3,prerequisite,EAp1 - Fundamental commissioning of building energy systems
+EA,EAp2,Minimum energy performance,prereq,0,0,15,Greek Fraternity Community Building,3,prerequisite,EAp2 - Minimum energy performance
+EA,EAp3,Fundamental refrigerant Mgmt,prereq,0,0,15,Greek Fraternity Community Building,3,prerequisite,EAp3 - Fundamental refrigerant Mgmt
+EA,EAc1,Optimize energy performance,cred,19,1,15,Greek Fraternity Community Building,3,1/19,EAc1 - Optimize energy performance
+EA,EAc2,On-site renewable energy,cred,7,0,15,Greek Fraternity Community Building,3,0/7,EAc2 - On-site renewable energy
+EA,EAc3,Enhanced commissioning,cred,2,2,15,Greek Fraternity Community Building,3,2/2,EAc3 - Enhanced commissioning
+EA,EAc4,Enhanced refrigerant Mgmt,cred,2,0,15,Greek Fraternity Community Building,3,0/2,EAc4 - Enhanced refrigerant Mgmt
+EA,EAc5,Measurement and verification,cred,3,0,15,Greek Fraternity Community Building,3,0/3,EAc5 - Measurement and verification
+EA,EAc6,Green power,cred,2,2,15,Greek Fraternity Community Building,3,2/2,EAc6 - Green power
+EA,EAp4,Energy performance metering path,prereq,0,0,15,Greek Fraternity Community Building,3,prerequisite,EAp4 - Energy performance metering path
+MR,MR,Material and Resources,cat,14,5,15,Greek Fraternity Community Building,3,5/14,MR - Material and Resources
+MR,MRp1,Storage and collection of recyclables,prereq,0,0,15,Greek Fraternity Community Building,3,prerequisite,MRp1 - Storage and collection of recyclables
+MR,MRc1.1,"Building reuse - maintain existing walls, floors, and roof",cred,3,0,15,Greek Fraternity Community Building,3,0/3,"MRc1.1 - Building reuse - maintain existing walls, floors, and roof"
+MR,MRc1.2,Building reuse - maintain interior nonstructural element,cred,1,0,15,Greek Fraternity Community Building,3,0/1,MRc1.2 - Building reuse - maintain interior nonstructural element
+MR,MRc2,Construction waste Mgmt,cred,2,1,15,Greek Fraternity Community Building,3,1/2,MRc2 - Construction waste Mgmt
+MR,MRc3,Materials reuse,cred,2,0,15,Greek Fraternity Community Building,3,0/2,MRc3 - Materials reuse
+MR,MRc4,Recycled content,cred,2,2,15,Greek Fraternity Community Building,3,2/2,MRc4 - Recycled content
+MR,MRc5 ,Regional materials,cred,2,2,15,Greek Fraternity Community Building,3,2/2,MRc5  - Regional materials
+MR,MRc6,Rapidly renewable materials,cred,1,0,15,Greek Fraternity Community Building,3,0/1,MRc6 - Rapidly renewable materials
+MR,MRc7,Certified wood,cred,1,0,15,Greek Fraternity Community Building,3,0/1,MRc7 - Certified wood
+EQ,EQ,Indoor Environmental Quality,cat,15,9,15,Greek Fraternity Community Building,3,9/15,EQ - Indoor Environmental Quality
+EQ,EQp1,Minimum IAQ performance,prereq,0,0,15,Greek Fraternity Community Building,3,prerequisite,EQp1 - Minimum IAQ performance
+EQ,EQp2,Environmental Tobacco Smoke (ETS) control,prereq,0,0,15,Greek Fraternity Community Building,3,prerequisite,EQp2 - Environmental Tobacco Smoke (ETS) control
+EQ,EQc1,Outdoor air delivery monitoring,cred,1,1,15,Greek Fraternity Community Building,3,1/1,EQc1 - Outdoor air delivery monitoring
+EQ,EQc2,Increased ventilation,cred,1,0,15,Greek Fraternity Community Building,3,0/1,EQc2 - Increased ventilation
+EQ,EQc3.1,Construction IAQ Mgmt plan - during contruction,cred,1,1,15,Greek Fraternity Community Building,3,1/1,EQc3.1 - Construction IAQ Mgmt plan - during contruction
+EQ,EQc3.2,Construction IAQ Mgmt plan - before occupancy,cred,1,0,15,Greek Fraternity Community Building,3,0/1,EQc3.2 - Construction IAQ Mgmt plan - before occupancy
+EQ,EQc4.1,Low-emitting materials - adhesives and sealants,cred,1,1,15,Greek Fraternity Community Building,3,1/1,EQc4.1 - Low-emitting materials - adhesives and sealants
+EQ,EQc4.2,Low-emitting materials - adhesives and sealants,cred,1,1,15,Greek Fraternity Community Building,3,1/1,EQc4.2 - Low-emitting materials - adhesives and sealants
+EQ,EQc4.3,Low-emitting materials - flooring systems,cred,1,1,15,Greek Fraternity Community Building,3,1/1,EQc4.3 - Low-emitting materials - flooring systems
+EQ,EQc4.4,Low-emitting materials - composite wood and agrifiber products,cred,1,1,15,Greek Fraternity Community Building,3,1/1,EQc4.4 - Low-emitting materials - composite wood and agrifiber products
+EQ,EQc5,Indoor chemical and pollutant source control,cred,1,0,15,Greek Fraternity Community Building,3,0/1,EQc5 - Indoor chemical and pollutant source control
+EQ,EQc6.1,Controllability of systems - lighting,cred,1,1,15,Greek Fraternity Community Building,3,1/1,EQc6.1 - Controllability of systems - lighting
+EQ,EQc6.2,Controllability of systems - thermal comfort,cred,1,0,15,Greek Fraternity Community Building,3,0/1,EQc6.2 - Controllability of systems - thermal comfort
+EQ,EQc7.1,Thermal comfort - design,cred,1,1,15,Greek Fraternity Community Building,3,1/1,EQc7.1 - Thermal comfort - design
+EQ,EQc7.2,Thermal comfort - verification,cred,1,1,15,Greek Fraternity Community Building,3,1/1,EQc7.2 - Thermal comfort - verification
+EQ,EQc8.1,Daylight and views - daylight,cred,1,0,15,Greek Fraternity Community Building,3,0/1,EQc8.1 - Daylight and views - daylight
+EQ,EQc8.2,Daylight and views - views,cred,1,0,15,Greek Fraternity Community Building,3,0/1,EQc8.2 - Daylight and views - views
+ID,ID,Innovation,cat,6,5,15,Greek Fraternity Community Building,3,5/6,ID - Innovation
+ID,IDc1,Innovation in design,cred,5,4,15,Greek Fraternity Community Building,3,4/5,IDc1 - Innovation in design
+ID,IDc2,LEED Accredited Professional,cred,1,1,15,Greek Fraternity Community Building,3,1/1,IDc2 - LEED Accredited Professional
+RP,RP,Regional Priority Credits,cat,4,2,15,Greek Fraternity Community Building,3,2/4,RP - Regional Priority Credits
+RP,EAc2,On-site renewable energy,cred,1,0,15,Greek Fraternity Community Building,3,0/1,EAc2 - On-site renewable energy
+RP,SSc4.4,Alternative transportation - parking capacity,cred,1,1,15,Greek Fraternity Community Building,3,1/1,SSc4.4 - Alternative transportation - parking capacity
+RP,SSc6.1,Stormwater design - quantity control,cred,1,0,15,Greek Fraternity Community Building,3,0/1,SSc6.1 - Stormwater design - quantity control
+RP,WEc1,Water efficient landscaping,cred,1,1,15,Greek Fraternity Community Building,3,1/1,WEc1 - Water efficient landscaping
+RP,WEc2,Innovative wastewater technologies,cred,1,0,15,Greek Fraternity Community Building,3,0/1,WEc2 - Innovative wastewater technologies
+RP,WEc3,Water use reduction,cred,1,0,15,Greek Fraternity Community Building,3,0/1,WEc3 - Water use reduction
+TO,TO,Total,cat,110,50,15,Greek Fraternity Community Building,3,50/110,TO - Total
+SS,SS,Sustainable sites,cat,26,19,14,West Utility Plant,3,19/26,SS - Sustainable sites
+SS,SSp1,Construction activity pollution prevention,prereq,0,0,14,West Utility Plant,3,prerequisite,SSp1 - Construction activity pollution prevention
+SS,SSc1,Site selection,cred,1,1,14,West Utility Plant,3,1/1,SSc1 - Site selection
+SS,SSc2,Development density and communnity connectivity,cred,5,5,14,West Utility Plant,3,5/5,SSc2 - Development density and communnity connectivity
+SS,SSc3,Brownfield redevlopment,cred,1,0,14,West Utility Plant,3,0/1,SSc3 - Brownfield redevlopment
+SS,SSc4.1,Alternative transportation - public transportation access,cred,6,6,14,West Utility Plant,3,6/6,SSc4.1 - Alternative transportation - public transportation access
+SS,SSc4.2,Alternative transportation - bicycle storage and changing rooms,cred,1,1,14,West Utility Plant,3,1/1,SSc4.2 - Alternative transportation - bicycle storage and changing rooms
+SS,SSc4.3,Alternative transportation - low emitting and fuel efficient vehicles,cred,3,3,14,West Utility Plant,3,3/3,SSc4.3 - Alternative transportation - low emitting and fuel efficient vehicles
+SS,SSc4.4,Alternative transporation - parking capacity,cred,2,0,14,West Utility Plant,3,0/2,SSc4.4 - Alternative transporation - parking capacity
+SS,SSc5.1,Site development - protect or restore habitat,cred,1,0,14,West Utility Plant,3,0/1,SSc5.1 - Site development - protect or restore habitat
+SS,SSc5.2 ,Site development - maximize open space,cred,1,1,14,West Utility Plant,3,1/1,SSc5.2  - Site development - maximize open space
+SS,SSc6.1 ,Stormwater design - quantity control,cred,1,1,14,West Utility Plant,3,1/1,SSc6.1  - Stormwater design - quantity control
+SS,SSc6.2,Stormwater design - quality control,cred,1,0,14,West Utility Plant,3,0/1,SSc6.2 - Stormwater design - quality control
+SS,SSc7.1 ,Heat island effect - nonroof,cred,1,0,14,West Utility Plant,3,0/1,SSc7.1  - Heat island effect - nonroof
+SS,SSc7.2,Heat island effect - roof,cred,1,1,14,West Utility Plant,3,1/1,SSc7.2 - Heat island effect - roof
+SS,SSc8,Light pollution reduction,cred,1,0,14,West Utility Plant,3,0/1,SSc8 - Light pollution reduction
+WE,WE,Water efficiency,cat,10,6,14,West Utility Plant,3,6/10,WE - Water efficiency
+WE,WEp1,Water use reduction,prereq,0,0,14,West Utility Plant,3,prerequisite,WEp1 - Water use reduction
+WE,WEc1,Water efficient landscaping,cred,4,4,14,West Utility Plant,3,4/4,WEc1 - Water efficient landscaping
+WE,WEc2,Innovative wastewater technologies,cred,2,0,14,West Utility Plant,3,0/2,WEc2 - Innovative wastewater technologies
+WE,WEc3,Water use reduction,cred,4,2,14,West Utility Plant,3,2/4,WEc3 - Water use reduction
+EA,EA,Energy and Atmosphere,cat,53,19,14,West Utility Plant,3,19/53,EA - Energy and Atmosphere
+EA,EAp1,Fundamental commissioning of building energy systems,prereq,0,0,14,West Utility Plant,3,prerequisite,EAp1 - Fundamental commissioning of building energy systems
+EA,EAp2,Minimum energy performance,prereq,0,0,14,West Utility Plant,3,prerequisite,EAp2 - Minimum energy performance
+EA,EAp3,Fundamental refrigerant Mgmt,prereq,0,0,14,West Utility Plant,3,prerequisite,EAp3 - Fundamental refrigerant Mgmt
+EA,EAc1,Optimize energy performance,cred,19,14,14,West Utility Plant,3,14/19,EAc1 - Optimize energy performance
+EA,EAc2,On-site renewable energy,cred,7,0,14,West Utility Plant,3,0/7,EAc2 - On-site renewable energy
+EA,EAc3,Enhanced commissioning,cred,2,2,14,West Utility Plant,3,2/2,EAc3 - Enhanced commissioning
+EA,EAc4,Enhanced refrigerant Mgmt,cred,2,2,14,West Utility Plant,3,2/2,EAc4 - Enhanced refrigerant Mgmt
+EA,EAc5,Measurement and verification,cred,3,1,14,West Utility Plant,3,1/3,EAc5 - Measurement and verification
+EA,EAc6,Green power,cred,2,0,14,West Utility Plant,3,0/2,EAc6 - Green power
+EA,EAp4,Energy performance metering path,prereq,0,0,14,West Utility Plant,3,prerequisite,EAp4 - Energy performance metering path
+MR,MR,Material and Resources,cat,14,6,14,West Utility Plant,3,6/14,MR - Material and Resources
+MR,MRp1,Storage and collection of recyclables,prereq,0,0,14,West Utility Plant,3,prerequisite,MRp1 - Storage and collection of recyclables
+MR,MRc1.1,"Building reuse - maintain existing walls, floors, and roof",cred,3,0,14,West Utility Plant,3,0/3,"MRc1.1 - Building reuse - maintain existing walls, floors, and roof"
+MR,MRc1.2,Building reuse - maintain interior nonstructural element,cred,1,0,14,West Utility Plant,3,0/1,MRc1.2 - Building reuse - maintain interior nonstructural element
+MR,MRc2,Construction waste Mgmt,cred,2,2,14,West Utility Plant,3,2/2,MRc2 - Construction waste Mgmt
+MR,MRc3,Materials reuse,cred,2,0,14,West Utility Plant,3,0/2,MRc3 - Materials reuse
+MR,MRc4,Recycled content,cred,2,2,14,West Utility Plant,3,2/2,MRc4 - Recycled content
+MR,MRc5 ,Regional materials,cred,2,2,14,West Utility Plant,3,2/2,MRc5  - Regional materials
+MR,MRc6,Rapidly renewable materials,cred,1,0,14,West Utility Plant,3,0/1,MRc6 - Rapidly renewable materials
+MR,MRc7,Certified wood,cred,1,0,14,West Utility Plant,3,0/1,MRc7 - Certified wood
+EQ,EQ,Indoor Environmental Quality,cat,15,13,14,West Utility Plant,3,13/15,EQ - Indoor Environmental Quality
+EQ,EQp1,Minimum IAQ performance,prereq,0,0,14,West Utility Plant,3,prerequisite,EQp1 - Minimum IAQ performance
+EQ,EQp2,Environmental Tobacco Smoke (ETS) control,prereq,0,0,14,West Utility Plant,3,prerequisite,EQp2 - Environmental Tobacco Smoke (ETS) control
+EQ,EQc1,Outdoor air delivery monitoring,cred,1,1,14,West Utility Plant,3,1/1,EQc1 - Outdoor air delivery monitoring
+EQ,EQc2,Increased ventilation,cred,1,1,14,West Utility Plant,3,1/1,EQc2 - Increased ventilation
+EQ,EQc3.1,Construction IAQ Mgmt plan - during contruction,cred,1,1,14,West Utility Plant,3,1/1,EQc3.1 - Construction IAQ Mgmt plan - during contruction
+EQ,EQc3.2,Construction IAQ Mgmt plan - before occupancy,cred,1,1,14,West Utility Plant,3,1/1,EQc3.2 - Construction IAQ Mgmt plan - before occupancy
+EQ,EQc4.1,Low-emitting materials - adhesives and sealants,cred,1,1,14,West Utility Plant,3,1/1,EQc4.1 - Low-emitting materials - adhesives and sealants
+EQ,EQc4.2,Low-emitting materials - adhesives and sealants,cred,1,1,14,West Utility Plant,3,1/1,EQc4.2 - Low-emitting materials - adhesives and sealants
+EQ,EQc4.3,Low-emitting materials - flooring systems,cred,1,1,14,West Utility Plant,3,1/1,EQc4.3 - Low-emitting materials - flooring systems
+EQ,EQc4.4,Low-emitting materials - composite wood and agrifiber products,cred,1,0,14,West Utility Plant,3,0/1,EQc4.4 - Low-emitting materials - composite wood and agrifiber products
+EQ,EQc5,Indoor chemical and pollutant source control,cred,1,1,14,West Utility Plant,3,1/1,EQc5 - Indoor chemical and pollutant source control
+EQ,EQc6.1,Controllability of systems - lighting,cred,1,1,14,West Utility Plant,3,1/1,EQc6.1 - Controllability of systems - lighting
+EQ,EQc6.2,Controllability of systems - thermal comfort,cred,1,1,14,West Utility Plant,3,1/1,EQc6.2 - Controllability of systems - thermal comfort
+EQ,EQc7.1,Thermal comfort - design,cred,1,1,14,West Utility Plant,3,1/1,EQc7.1 - Thermal comfort - design
+EQ,EQc7.2,Thermal comfort - verification,cred,1,1,14,West Utility Plant,3,1/1,EQc7.2 - Thermal comfort - verification
+EQ,EQc8.1,Daylight and views - daylight,cred,1,0,14,West Utility Plant,3,0/1,EQc8.1 - Daylight and views - daylight
+EQ,EQc8.2,Daylight and views - views,cred,1,1,14,West Utility Plant,3,1/1,EQc8.2 - Daylight and views - views
+ID,ID,Innovation,cat,6,4,14,West Utility Plant,3,4/6,ID - Innovation
+ID,IDc1,Innovation in design,cred,5,3,14,West Utility Plant,3,3/5,IDc1 - Innovation in design
+ID,IDc2,LEED Accredited Professional,cred,1,1,14,West Utility Plant,3,1/1,IDc2 - LEED Accredited Professional
+RP,RP,Regional Priority Credits,cat,4,2,14,West Utility Plant,3,2/4,RP - Regional Priority Credits
+RP,SSc4.4,Alternative transportation - parking capacity,cred,1,0,14,West Utility Plant,3,0/1,SSc4.4 - Alternative transportation - parking capacity
+RP,SSc6.1,Stormwater design - quantity control,cred,1,1,14,West Utility Plant,3,1/1,SSc6.1 - Stormwater design - quantity control
+RP,WEc1,Water efficient landscaping,cred,1,1,14,West Utility Plant,3,1/1,WEc1 - Water efficient landscaping
+RP,WEc3,Water use reduction,cred,1,0,14,West Utility Plant,3,0/1,WEc3 - Water use reduction
+TO,TO,Total,cat,110,69,14,West Utility Plant,3,69/110,TO - Total
+SS,SS,Sustainable sites,cat,26,17,12,Music Arts Center,3,17/26,SS - Sustainable sites
+SS,SSp1,Construction activity pollution prevention,prereq,0,0,12,Music Arts Center,3,prerequisite,SSp1 - Construction activity pollution prevention
+SS,SSc1,Site selection,cred,1,1,12,Music Arts Center,3,1/1,SSc1 - Site selection
+SS,SSc2,Development density and communnity connectivity,cred,5,5,12,Music Arts Center,3,5/5,SSc2 - Development density and communnity connectivity
+SS,SSc3,Brownfield redevlopment,cred,1,1,12,Music Arts Center,3,1/1,SSc3 - Brownfield redevlopment
+SS,SSc4.1,Alternative transportation - public transportation access,cred,6,6,12,Music Arts Center,3,6/6,SSc4.1 - Alternative transportation - public transportation access
+SS,SSc4.2,Alternative transportation - bicycle storage and changing rooms,cred,1,1,12,Music Arts Center,3,1/1,SSc4.2 - Alternative transportation - bicycle storage and changing rooms
+SS,SSc4.3,Alternative transportation - low emitting and fuel efficient vehicles,cred,3,0,12,Music Arts Center,3,0/3,SSc4.3 - Alternative transportation - low emitting and fuel efficient vehicles
+SS,SSc4.4,Alternative transporation - parking capacity,cred,2,2,12,Music Arts Center,3,2/2,SSc4.4 - Alternative transporation - parking capacity
+SS,SSc5.1,Site development - protect or restore habitat,cred,1,0,12,Music Arts Center,3,0/1,SSc5.1 - Site development - protect or restore habitat
+SS,SSc5.2 ,Site development - maximize open space,cred,1,0,12,Music Arts Center,3,0/1,SSc5.2  - Site development - maximize open space
+SS,SSc6.1 ,Stormwater design - quantity control,cred,1,0,12,Music Arts Center,3,0/1,SSc6.1  - Stormwater design - quantity control
+SS,SSc6.2,Stormwater design - quality control,cred,1,0,12,Music Arts Center,3,0/1,SSc6.2 - Stormwater design - quality control
+SS,SSc7.1 ,Heat island effect - nonroof,cred,1,0,12,Music Arts Center,3,0/1,SSc7.1  - Heat island effect - nonroof
+SS,SSc7.2,Heat island effect - roof,cred,1,1,12,Music Arts Center,3,1/1,SSc7.2 - Heat island effect - roof
+SS,SSc8,Light pollution reduction,cred,1,0,12,Music Arts Center,3,0/1,SSc8 - Light pollution reduction
+WE,WE,Water efficiency,cat,10,7,12,Music Arts Center,3,7/10,WE - Water efficiency
+WE,WEp1,Water use reduction,prereq,0,0,12,Music Arts Center,3,prerequisite,WEp1 - Water use reduction
+WE,WEc1,Water efficient landscaping,cred,4,4,12,Music Arts Center,3,4/4,WEc1 - Water efficient landscaping
+WE,WEc2,Innovative wastewater technologies,cred,2,0,12,Music Arts Center,3,0/2,WEc2 - Innovative wastewater technologies
+WE,WEc3,Water use reduction,cred,4,3,12,Music Arts Center,3,3/4,WEc3 - Water use reduction
+EA,EA,Energy and Atmosphere,cat,53,12,12,Music Arts Center,3,12/53,EA - Energy and Atmosphere
+EA,EAp1,Fundamental commissioning of building energy systems,prereq,0,0,12,Music Arts Center,3,prerequisite,EAp1 - Fundamental commissioning of building energy systems
+EA,EAp2,Minimum energy performance,prereq,0,0,12,Music Arts Center,3,prerequisite,EAp2 - Minimum energy performance
+EA,EAp3,Fundamental refrigerant Mgmt,prereq,0,0,12,Music Arts Center,3,prerequisite,EAp3 - Fundamental refrigerant Mgmt
+EA,EAc1,Optimize energy performance,cred,19,7,12,Music Arts Center,3,7/19,EAc1 - Optimize energy performance
+EA,EAc2,On-site renewable energy,cred,7,0,12,Music Arts Center,3,0/7,EAc2 - On-site renewable energy
+EA,EAc3,Enhanced commissioning,cred,2,2,12,Music Arts Center,3,2/2,EAc3 - Enhanced commissioning
+EA,EAc4,Enhanced refrigerant Mgmt,cred,2,2,12,Music Arts Center,3,2/2,EAc4 - Enhanced refrigerant Mgmt
+EA,EAc5,Measurement and verification,cred,3,1,12,Music Arts Center,3,1/3,EAc5 - Measurement and verification
+EA,EAc6,Green power,cred,2,0,12,Music Arts Center,3,0/2,EAc6 - Green power
+EA,EAp4,Energy performance metering path,prereq,0,0,12,Music Arts Center,3,prerequisite,EAp4 - Energy performance metering path
+MR,MR,Material and Resources,cat,14,4,12,Music Arts Center,3,4/14,MR - Material and Resources
+MR,MRp1,Storage and collection of recyclables,prereq,0,0,12,Music Arts Center,3,prerequisite,MRp1 - Storage and collection of recyclables
+MR,MRc1.1,"Building reuse - maintain existing walls, floors, and roof",cred,3,0,12,Music Arts Center,3,0/3,"MRc1.1 - Building reuse - maintain existing walls, floors, and roof"
+MR,MRc1.2,Building reuse - maintain interior nonstructural element,cred,1,0,12,Music Arts Center,3,0/1,MRc1.2 - Building reuse - maintain interior nonstructural element
+MR,MRc2,Construction waste Mgmt,cred,2,2,12,Music Arts Center,3,2/2,MRc2 - Construction waste Mgmt
+MR,MRc3,Materials reuse,cred,2,0,12,Music Arts Center,3,0/2,MRc3 - Materials reuse
+MR,MRc4,Recycled content,cred,2,2,12,Music Arts Center,3,2/2,MRc4 - Recycled content
+MR,MRc5 ,Regional materials,cred,2,0,12,Music Arts Center,3,0/2,MRc5  - Regional materials
+MR,MRc6,Rapidly renewable materials,cred,1,0,12,Music Arts Center,3,0/1,MRc6 - Rapidly renewable materials
+MR,MRc7,Certified wood,cred,1,0,12,Music Arts Center,3,0/1,MRc7 - Certified wood
+EQ,EQ,Indoor Environmental Quality,cat,15,8,12,Music Arts Center,3,8/15,EQ - Indoor Environmental Quality
+EQ,EQp1,Minimum IAQ performance,prereq,0,0,12,Music Arts Center,3,prerequisite,EQp1 - Minimum IAQ performance
+EQ,EQp2,Environmental Tobacco Smoke (ETS) control,prereq,0,0,12,Music Arts Center,3,prerequisite,EQp2 - Environmental Tobacco Smoke (ETS) control
+EQ,EQc1,Outdoor air delivery monitoring,cred,1,1,12,Music Arts Center,3,1/1,EQc1 - Outdoor air delivery monitoring
+EQ,EQc2,Increased ventilation,cred,1,0,12,Music Arts Center,3,0/1,EQc2 - Increased ventilation
+EQ,EQc3.1,Construction IAQ Mgmt plan - during contruction,cred,1,1,12,Music Arts Center,3,1/1,EQc3.1 - Construction IAQ Mgmt plan - during contruction
+EQ,EQc3.2,Construction IAQ Mgmt plan - before occupancy,cred,1,1,12,Music Arts Center,3,1/1,EQc3.2 - Construction IAQ Mgmt plan - before occupancy
+EQ,EQc4.1,Low-emitting materials - adhesives and sealants,cred,1,1,12,Music Arts Center,3,1/1,EQc4.1 - Low-emitting materials - adhesives and sealants
+EQ,EQc4.2,Low-emitting materials - adhesives and sealants,cred,1,1,12,Music Arts Center,3,1/1,EQc4.2 - Low-emitting materials - adhesives and sealants
+EQ,EQc4.3,Low-emitting materials - flooring systems,cred,1,0,12,Music Arts Center,3,0/1,EQc4.3 - Low-emitting materials - flooring systems
+EQ,EQc4.4,Low-emitting materials - composite wood and agrifiber products,cred,1,0,12,Music Arts Center,3,0/1,EQc4.4 - Low-emitting materials - composite wood and agrifiber products
+EQ,EQc5,Indoor chemical and pollutant source control,cred,1,1,12,Music Arts Center,3,1/1,EQc5 - Indoor chemical and pollutant source control
+EQ,EQc6.1,Controllability of systems - lighting,cred,1,0,12,Music Arts Center,3,0/1,EQc6.1 - Controllability of systems - lighting
+EQ,EQc6.2,Controllability of systems - thermal comfort,cred,1,0,12,Music Arts Center,3,0/1,EQc6.2 - Controllability of systems - thermal comfort
+EQ,EQc7.1,Thermal comfort - design,cred,1,1,12,Music Arts Center,3,1/1,EQc7.1 - Thermal comfort - design
+EQ,EQc7.2,Thermal comfort - verification,cred,1,1,12,Music Arts Center,3,1/1,EQc7.2 - Thermal comfort - verification
+EQ,EQc8.1,Daylight and views - daylight,cred,1,0,12,Music Arts Center,3,0/1,EQc8.1 - Daylight and views - daylight
+EQ,EQc8.2,Daylight and views - views,cred,1,0,12,Music Arts Center,3,0/1,EQc8.2 - Daylight and views - views
+ID,ID,Innovation,cat,6,3,12,Music Arts Center,3,3/6,ID - Innovation
+ID,IDc1,Innovation in design,cred,5,2,12,Music Arts Center,3,2/5,IDc1 - Innovation in design
+ID,IDc2,LEED Accredited Professional,cred,1,1,12,Music Arts Center,3,1/1,IDc2 - LEED Accredited Professional
+RP,RP,Regional Priority Credits,cat,4,2,12,Music Arts Center,3,2/4,RP - Regional Priority Credits
+RP,EAc2,On-site renewable energy,cred,1,0,12,Music Arts Center,3,0/1,EAc2 - On-site renewable energy
+RP,SSc4.4,Alternative transportation - parking capacity,cred,1,1,12,Music Arts Center,3,1/1,SSc4.4 - Alternative transportation - parking capacity
+RP,WEc1,Water efficient landscaping,cred,1,1,12,Music Arts Center,3,1/1,WEc1 - Water efficient landscaping
+RP,WEc3,Water use reduction,cred,1,0,12,Music Arts Center,3,0/1,WEc3 - Water use reduction
+TO,TO,Total,cat,110,53,12,Music Arts Center,3,53/110,TO - Total
+SS,SS,Sustainable sites,cat,26,17,13,PBK Memorial Hall,3,17/26,SS - Sustainable sites
+SS,SSp1,Construction activity pollution prevention,prereq,0,0,13,PBK Memorial Hall,3,prerequisite,SSp1 - Construction activity pollution prevention
+SS,SSc1,Site selection,cred,1,1,13,PBK Memorial Hall,3,1/1,SSc1 - Site selection
+SS,SSc2,Development density and communnity connectivity,cred,5,5,13,PBK Memorial Hall,3,5/5,SSc2 - Development density and communnity connectivity
+SS,SSc3,Brownfield redevlopment,cred,1,1,13,PBK Memorial Hall,3,1/1,SSc3 - Brownfield redevlopment
+SS,SSc4.1,Alternative transportation - public transportation access,cred,6,6,13,PBK Memorial Hall,3,6/6,SSc4.1 - Alternative transportation - public transportation access
+SS,SSc4.2,Alternative transportation - bicycle storage and changing rooms,cred,1,1,13,PBK Memorial Hall,3,1/1,SSc4.2 - Alternative transportation - bicycle storage and changing rooms
+SS,SSc4.3,Alternative transportation - low emitting and fuel efficient vehicles,cred,3,0,13,PBK Memorial Hall,3,0/3,SSc4.3 - Alternative transportation - low emitting and fuel efficient vehicles
+SS,SSc4.4,Alternative transporation - parking capacity,cred,2,2,13,PBK Memorial Hall,3,2/2,SSc4.4 - Alternative transporation - parking capacity
+SS,SSc5.1,Site development - protect or restore habitat,cred,1,0,13,PBK Memorial Hall,3,0/1,SSc5.1 - Site development - protect or restore habitat
+SS,SSc5.2 ,Site development - maximize open space,cred,1,0,13,PBK Memorial Hall,3,0/1,SSc5.2  - Site development - maximize open space
+SS,SSc6.1 ,Stormwater design - quantity control,cred,1,0,13,PBK Memorial Hall,3,0/1,SSc6.1  - Stormwater design - quantity control
+SS,SSc6.2,Stormwater design - quality control,cred,1,0,13,PBK Memorial Hall,3,0/1,SSc6.2 - Stormwater design - quality control
+SS,SSc7.1 ,Heat island effect - nonroof,cred,1,0,13,PBK Memorial Hall,3,0/1,SSc7.1  - Heat island effect - nonroof
+SS,SSc7.2,Heat island effect - roof,cred,1,1,13,PBK Memorial Hall,3,1/1,SSc7.2 - Heat island effect - roof
+SS,SSc8,Light pollution reduction,cred,1,0,13,PBK Memorial Hall,3,0/1,SSc8 - Light pollution reduction
+WE,WE,Water efficiency,cat,10,7,13,PBK Memorial Hall,3,7/10,WE - Water efficiency
+WE,WEp1,Water use reduction,prereq,0,0,13,PBK Memorial Hall,3,prerequisite,WEp1 - Water use reduction
+WE,WEc1,Water efficient landscaping,cred,4,4,13,PBK Memorial Hall,3,4/4,WEc1 - Water efficient landscaping
+WE,WEc2,Innovative wastewater technologies,cred,2,0,13,PBK Memorial Hall,3,0/2,WEc2 - Innovative wastewater technologies
+WE,WEc3,Water use reduction,cred,4,3,13,PBK Memorial Hall,3,3/4,WEc3 - Water use reduction
+EA,EA,Energy and Atmosphere,cat,53,12,13,PBK Memorial Hall,3,12/53,EA - Energy and Atmosphere
+EA,EAp1,Fundamental commissioning of building energy systems,prereq,0,0,13,PBK Memorial Hall,3,prerequisite,EAp1 - Fundamental commissioning of building energy systems
+EA,EAp2,Minimum energy performance,prereq,0,0,13,PBK Memorial Hall,3,prerequisite,EAp2 - Minimum energy performance
+EA,EAp3,Fundamental refrigerant Mgmt,prereq,0,0,13,PBK Memorial Hall,3,prerequisite,EAp3 - Fundamental refrigerant Mgmt
+EA,EAc1,Optimize energy performance,cred,19,7,13,PBK Memorial Hall,3,7/19,EAc1 - Optimize energy performance
+EA,EAc2,On-site renewable energy,cred,7,0,13,PBK Memorial Hall,3,0/7,EAc2 - On-site renewable energy
+EA,EAc3,Enhanced commissioning,cred,2,2,13,PBK Memorial Hall,3,2/2,EAc3 - Enhanced commissioning
+EA,EAc4,Enhanced refrigerant Mgmt,cred,2,2,13,PBK Memorial Hall,3,2/2,EAc4 - Enhanced refrigerant Mgmt
+EA,EAc5,Measurement and verification,cred,3,1,13,PBK Memorial Hall,3,1/3,EAc5 - Measurement and verification
+EA,EAc6,Green power,cred,2,0,13,PBK Memorial Hall,3,0/2,EAc6 - Green power
+EA,EAp4,Energy performance metering path,prereq,0,0,13,PBK Memorial Hall,3,prerequisite,EAp4 - Energy performance metering path
+MR,MR,Material and Resources,cat,14,4,13,PBK Memorial Hall,3,4/14,MR - Material and Resources
+MR,MRp1,Storage and collection of recyclables,prereq,0,0,13,PBK Memorial Hall,3,prerequisite,MRp1 - Storage and collection of recyclables
+MR,MRc1.1,"Building reuse - maintain existing walls, floors, and roof",cred,3,0,13,PBK Memorial Hall,3,0/3,"MRc1.1 - Building reuse - maintain existing walls, floors, and roof"
+MR,MRc1.2,Building reuse - maintain interior nonstructural element,cred,1,0,13,PBK Memorial Hall,3,0/1,MRc1.2 - Building reuse - maintain interior nonstructural element
+MR,MRc2,Construction waste Mgmt,cred,2,2,13,PBK Memorial Hall,3,2/2,MRc2 - Construction waste Mgmt
+MR,MRc3,Materials reuse,cred,2,0,13,PBK Memorial Hall,3,0/2,MRc3 - Materials reuse
+MR,MRc4,Recycled content,cred,2,2,13,PBK Memorial Hall,3,2/2,MRc4 - Recycled content
+MR,MRc5 ,Regional materials,cred,2,0,13,PBK Memorial Hall,3,0/2,MRc5  - Regional materials
+MR,MRc6,Rapidly renewable materials,cred,1,0,13,PBK Memorial Hall,3,0/1,MRc6 - Rapidly renewable materials
+MR,MRc7,Certified wood,cred,1,0,13,PBK Memorial Hall,3,0/1,MRc7 - Certified wood
+EQ,EQ,Indoor Environmental Quality,cat,15,8,13,PBK Memorial Hall,3,8/15,EQ - Indoor Environmental Quality
+EQ,EQp1,Minimum IAQ performance,prereq,0,0,13,PBK Memorial Hall,3,prerequisite,EQp1 - Minimum IAQ performance
+EQ,EQp2,Environmental Tobacco Smoke (ETS) control,prereq,0,0,13,PBK Memorial Hall,3,prerequisite,EQp2 - Environmental Tobacco Smoke (ETS) control
+EQ,EQc1,Outdoor air delivery monitoring,cred,1,1,13,PBK Memorial Hall,3,1/1,EQc1 - Outdoor air delivery monitoring
+EQ,EQc2,Increased ventilation,cred,1,0,13,PBK Memorial Hall,3,0/1,EQc2 - Increased ventilation
+EQ,EQc3.1,Construction IAQ Mgmt plan - during contruction,cred,1,1,13,PBK Memorial Hall,3,1/1,EQc3.1 - Construction IAQ Mgmt plan - during contruction
+EQ,EQc3.2,Construction IAQ Mgmt plan - before occupancy,cred,1,1,13,PBK Memorial Hall,3,1/1,EQc3.2 - Construction IAQ Mgmt plan - before occupancy
+EQ,EQc4.1,Low-emitting materials - adhesives and sealants,cred,1,1,13,PBK Memorial Hall,3,1/1,EQc4.1 - Low-emitting materials - adhesives and sealants
+EQ,EQc4.2,Low-emitting materials - adhesives and sealants,cred,1,1,13,PBK Memorial Hall,3,1/1,EQc4.2 - Low-emitting materials - adhesives and sealants
+EQ,EQc4.3,Low-emitting materials - flooring systems,cred,1,0,13,PBK Memorial Hall,3,0/1,EQc4.3 - Low-emitting materials - flooring systems
+EQ,EQc4.4,Low-emitting materials - composite wood and agrifiber products,cred,1,0,13,PBK Memorial Hall,3,0/1,EQc4.4 - Low-emitting materials - composite wood and agrifiber products
+EQ,EQc5,Indoor chemical and pollutant source control,cred,1,1,13,PBK Memorial Hall,3,1/1,EQc5 - Indoor chemical and pollutant source control
+EQ,EQc6.1,Controllability of systems - lighting,cred,1,0,13,PBK Memorial Hall,3,0/1,EQc6.1 - Controllability of systems - lighting
+EQ,EQc6.2,Controllability of systems - thermal comfort,cred,1,0,13,PBK Memorial Hall,3,0/1,EQc6.2 - Controllability of systems - thermal comfort
+EQ,EQc7.1,Thermal comfort - design,cred,1,1,13,PBK Memorial Hall,3,1/1,EQc7.1 - Thermal comfort - design
+EQ,EQc7.2,Thermal comfort - verification,cred,1,1,13,PBK Memorial Hall,3,1/1,EQc7.2 - Thermal comfort - verification
+EQ,EQc8.1,Daylight and views - daylight,cred,1,0,13,PBK Memorial Hall,3,0/1,EQc8.1 - Daylight and views - daylight
+EQ,EQc8.2,Daylight and views - views,cred,1,0,13,PBK Memorial Hall,3,0/1,EQc8.2 - Daylight and views - views
+ID,ID,Innovation,cat,6,3,13,PBK Memorial Hall,3,3/6,ID - Innovation
+ID,IDc1,Innovation in design,cred,5,2,13,PBK Memorial Hall,3,2/5,IDc1 - Innovation in design
+ID,IDc2,LEED Accredited Professional,cred,1,1,13,PBK Memorial Hall,3,1/1,IDc2 - LEED Accredited Professional
+RP,RP,Regional Priority Credits,cat,4,2,13,PBK Memorial Hall,3,2/4,RP - Regional Priority Credits
+RP,EAc2,On-site renewable energy,cred,1,0,13,PBK Memorial Hall,3,0/1,EAc2 - On-site renewable energy
+RP,SSc4.4,Alternative transportation - parking capacity,cred,1,1,13,PBK Memorial Hall,3,1/1,SSc4.4 - Alternative transportation - parking capacity
+RP,WEc1,Water efficient landscaping,cred,1,1,13,PBK Memorial Hall,3,1/1,WEc1 - Water efficient landscaping
+RP,WEc3,Water use reduction,cred,1,0,13,PBK Memorial Hall,3,0/1,WEc3 - Water use reduction
+TO,TO,Total,cat,110,53,13,PBK Memorial Hall,3,53/110,TO - Total
+SS,SS,Sustainable sites,cat,26,19,11,McLeod Tyler Wellness Center,3,19/26,SS - Sustainable sites
+SS,SSp1,Construction activity pollution prevention,prereq,0,0,11,McLeod Tyler Wellness Center,3,prerequisite,SSp1 - Construction activity pollution prevention
+SS,SSc1,Site selection,cred,1,1,11,McLeod Tyler Wellness Center,3,1/1,SSc1 - Site selection
+SS,SSc2,Development density and communnity connectivity,cred,5,5,11,McLeod Tyler Wellness Center,3,5/5,SSc2 - Development density and communnity connectivity
+SS,SSc3,Brownfield redevlopment,cred,1,1,11,McLeod Tyler Wellness Center,3,1/1,SSc3 - Brownfield redevlopment
+SS,SSc4.1,Alternative transportation - public transportation access,cred,6,6,11,McLeod Tyler Wellness Center,3,6/6,SSc4.1 - Alternative transportation - public transportation access
+SS,SSc4.2,Alternative transportation - bicycle storage and changing rooms,cred,1,1,11,McLeod Tyler Wellness Center,3,1/1,SSc4.2 - Alternative transportation - bicycle storage and changing rooms
+SS,SSc4.3,Alternative transportation - low emitting and fuel efficient vehicles,cred,3,0,11,McLeod Tyler Wellness Center,3,0/3,SSc4.3 - Alternative transportation - low emitting and fuel efficient vehicles
+SS,SSc4.4,Alternative transporation - parking capacity,cred,2,2,11,McLeod Tyler Wellness Center,3,2/2,SSc4.4 - Alternative transporation - parking capacity
+SS,SSc5.1,Site development - protect or restore habitat,cred,1,1,11,McLeod Tyler Wellness Center,3,1/1,SSc5.1 - Site development - protect or restore habitat
+SS,SSc5.2 ,Site development - maximize open space,cred,1,1,11,McLeod Tyler Wellness Center,3,1/1,SSc5.2  - Site development - maximize open space
+SS,SSc6.1 ,Stormwater design - quantity control,cred,1,0,11,McLeod Tyler Wellness Center,3,0/1,SSc6.1  - Stormwater design - quantity control
+SS,SSc6.2,Stormwater design - quality control,cred,1,0,11,McLeod Tyler Wellness Center,3,0/1,SSc6.2 - Stormwater design - quality control
+SS,SSc7.1 ,Heat island effect - nonroof,cred,1,0,11,McLeod Tyler Wellness Center,3,0/1,SSc7.1  - Heat island effect - nonroof
+SS,SSc7.2,Heat island effect - roof,cred,1,1,11,McLeod Tyler Wellness Center,3,1/1,SSc7.2 - Heat island effect - roof
+SS,SSc8,Light pollution reduction,cred,1,0,11,McLeod Tyler Wellness Center,3,0/1,SSc8 - Light pollution reduction
+WE,WE,Water efficiency,cat,10,4,11,McLeod Tyler Wellness Center,3,4/10,WE - Water efficiency
+WE,WEp1,Water use reduction,prereq,0,0,11,McLeod Tyler Wellness Center,3,prerequisite,WEp1 - Water use reduction
+WE,WEc1,Water efficient landscaping,cred,4,4,11,McLeod Tyler Wellness Center,3,4/4,WEc1 - Water efficient landscaping
+WE,WEc2,Innovative wastewater technologies,cred,2,0,11,McLeod Tyler Wellness Center,3,0/2,WEc2 - Innovative wastewater technologies
+WE,WEc3,Water use reduction,cred,4,0,11,McLeod Tyler Wellness Center,3,0/4,WEc3 - Water use reduction
+EA,EA,Energy and Atmosphere,cat,53,13,11,McLeod Tyler Wellness Center,3,13/53,EA - Energy and Atmosphere
+EA,EAp1,Fundamental commissioning of building energy systems,prereq,0,0,11,McLeod Tyler Wellness Center,3,prerequisite,EAp1 - Fundamental commissioning of building energy systems
+EA,EAp2,Minimum energy performance,prereq,0,0,11,McLeod Tyler Wellness Center,3,prerequisite,EAp2 - Minimum energy performance
+EA,EAp3,Fundamental refrigerant Mgmt,prereq,0,0,11,McLeod Tyler Wellness Center,3,prerequisite,EAp3 - Fundamental refrigerant Mgmt
+EA,EAc1,Optimize energy performance,cred,19,9,11,McLeod Tyler Wellness Center,3,9/19,EAc1 - Optimize energy performance
+EA,EAc2,On-site renewable energy,cred,7,0,11,McLeod Tyler Wellness Center,3,0/7,EAc2 - On-site renewable energy
+EA,EAc3,Enhanced commissioning,cred,2,2,11,McLeod Tyler Wellness Center,3,2/2,EAc3 - Enhanced commissioning
+EA,EAc4,Enhanced refrigerant Mgmt,cred,2,2,11,McLeod Tyler Wellness Center,3,2/2,EAc4 - Enhanced refrigerant Mgmt
+EA,EAc5,Measurement and verification,cred,3,0,11,McLeod Tyler Wellness Center,3,0/3,EAc5 - Measurement and verification
+EA,EAc6,Green power,cred,2,0,11,McLeod Tyler Wellness Center,3,0/2,EAc6 - Green power
+EA,EAp4,Energy performance metering path,prereq,0,0,11,McLeod Tyler Wellness Center,3,prerequisite,EAp4 - Energy performance metering path
+MR,MR,Material and Resources,cat,14,6,11,McLeod Tyler Wellness Center,3,6/14,MR - Material and Resources
+MR,MRp1,Storage and collection of recyclables,prereq,0,0,11,McLeod Tyler Wellness Center,3,prerequisite,MRp1 - Storage and collection of recyclables
+MR,MRc1.1,"Building reuse - maintain existing walls, floors, and roof",cred,3,0,11,McLeod Tyler Wellness Center,3,0/3,"MRc1.1 - Building reuse - maintain existing walls, floors, and roof"
+MR,MRc1.2,Building reuse - maintain interior nonstructural element,cred,1,0,11,McLeod Tyler Wellness Center,3,0/1,MRc1.2 - Building reuse - maintain interior nonstructural element
+MR,MRc2,Construction waste Mgmt,cred,2,2,11,McLeod Tyler Wellness Center,3,2/2,MRc2 - Construction waste Mgmt
+MR,MRc3,Materials reuse,cred,2,0,11,McLeod Tyler Wellness Center,3,0/2,MRc3 - Materials reuse
+MR,MRc4,Recycled content,cred,2,2,11,McLeod Tyler Wellness Center,3,2/2,MRc4 - Recycled content
+MR,MRc5 ,Regional materials,cred,2,2,11,McLeod Tyler Wellness Center,3,2/2,MRc5  - Regional materials
+MR,MRc6,Rapidly renewable materials,cred,1,0,11,McLeod Tyler Wellness Center,3,0/1,MRc6 - Rapidly renewable materials
+MR,MRc7,Certified wood,cred,1,0,11,McLeod Tyler Wellness Center,3,0/1,MRc7 - Certified wood
+EQ,EQ,Indoor Environmental Quality,cat,15,10,11,McLeod Tyler Wellness Center,3,10/15,EQ - Indoor Environmental Quality
+EQ,EQp1,Minimum IAQ performance,prereq,0,0,11,McLeod Tyler Wellness Center,3,prerequisite,EQp1 - Minimum IAQ performance
+EQ,EQp2,Environmental Tobacco Smoke (ETS) control,prereq,0,0,11,McLeod Tyler Wellness Center,3,prerequisite,EQp2 - Environmental Tobacco Smoke (ETS) control
+EQ,EQc1,Outdoor air delivery monitoring,cred,1,1,11,McLeod Tyler Wellness Center,3,1/1,EQc1 - Outdoor air delivery monitoring
+EQ,EQc2,Increased ventilation,cred,1,0,11,McLeod Tyler Wellness Center,3,0/1,EQc2 - Increased ventilation
+EQ,EQc3.1,Construction IAQ Mgmt plan - during contruction,cred,1,1,11,McLeod Tyler Wellness Center,3,1/1,EQc3.1 - Construction IAQ Mgmt plan - during contruction
+EQ,EQc3.2,Construction IAQ Mgmt plan - before occupancy,cred,1,1,11,McLeod Tyler Wellness Center,3,1/1,EQc3.2 - Construction IAQ Mgmt plan - before occupancy
+EQ,EQc4.1,Low-emitting materials - adhesives and sealants,cred,1,1,11,McLeod Tyler Wellness Center,3,1/1,EQc4.1 - Low-emitting materials - adhesives and sealants
+EQ,EQc4.2,Low-emitting materials - adhesives and sealants,cred,1,1,11,McLeod Tyler Wellness Center,3,1/1,EQc4.2 - Low-emitting materials - adhesives and sealants
+EQ,EQc4.3,Low-emitting materials - flooring systems,cred,1,1,11,McLeod Tyler Wellness Center,3,1/1,EQc4.3 - Low-emitting materials - flooring systems
+EQ,EQc4.4,Low-emitting materials - composite wood and agrifiber products,cred,1,1,11,McLeod Tyler Wellness Center,3,1/1,EQc4.4 - Low-emitting materials - composite wood and agrifiber products
+EQ,EQc5,Indoor chemical and pollutant source control,cred,1,1,11,McLeod Tyler Wellness Center,3,1/1,EQc5 - Indoor chemical and pollutant source control
+EQ,EQc6.1,Controllability of systems - lighting,cred,1,1,11,McLeod Tyler Wellness Center,3,1/1,EQc6.1 - Controllability of systems - lighting
+EQ,EQc6.2,Controllability of systems - thermal comfort,cred,1,0,11,McLeod Tyler Wellness Center,3,0/1,EQc6.2 - Controllability of systems - thermal comfort
+EQ,EQc7.1,Thermal comfort - design,cred,1,1,11,McLeod Tyler Wellness Center,3,1/1,EQc7.1 - Thermal comfort - design
+EQ,EQc7.2,Thermal comfort - verification,cred,1,0,11,McLeod Tyler Wellness Center,3,0/1,EQc7.2 - Thermal comfort - verification
+EQ,EQc8.1,Daylight and views - daylight,cred,1,0,11,McLeod Tyler Wellness Center,3,0/1,EQc8.1 - Daylight and views - daylight
+EQ,EQc8.2,Daylight and views - views,cred,1,0,11,McLeod Tyler Wellness Center,3,0/1,EQc8.2 - Daylight and views - views
+ID,ID,Innovation,cat,6,6,11,McLeod Tyler Wellness Center,3,6/6,ID - Innovation
+ID,IDc1,Innovation in design,cred,5,5,11,McLeod Tyler Wellness Center,3,5/5,IDc1 - Innovation in design
+ID,IDc2,LEED Accredited Professional,cred,1,1,11,McLeod Tyler Wellness Center,3,1/1,IDc2 - LEED Accredited Professional
+RP,RP,Regional Priority Credits,cat,4,2,11,McLeod Tyler Wellness Center,3,2/4,RP - Regional Priority Credits
+RP,SSc4.4,Alternative transportation - parking capacity,cred,1,1,11,McLeod Tyler Wellness Center,3,1/1,SSc4.4 - Alternative transportation - parking capacity
+RP,WEc1,Water efficient landscaping,cred,1,1,11,McLeod Tyler Wellness Center,3,1/1,WEc1 - Water efficient landscaping
+RP,WEc3,Water use reduction,cred,1,0,11,McLeod Tyler Wellness Center,3,0/1,WEc3 - Water use reduction
+TO,TO,Total,cat,110,60,11,McLeod Tyler Wellness Center,3,60/110,TO - Total
+SS,SS,Sustainable sites,cat,26,15,10,Marshall Wythe School of Law Addition,3,15/26,SS - Sustainable sites
+SS,SSp1,Construction activity pollution prevention,prereq,0,0,10,Marshall Wythe School of Law Addition,3,prerequisite,SSp1 - Construction activity pollution prevention
+SS,SSc1,Site selection,cred,1,1,10,Marshall Wythe School of Law Addition,3,1/1,SSc1 - Site selection
+SS,SSc2,Development density and communnity connectivity,cred,5,5,10,Marshall Wythe School of Law Addition,3,5/5,SSc2 - Development density and communnity connectivity
+SS,SSc3,Brownfield redevlopment,cred,1,0,10,Marshall Wythe School of Law Addition,3,0/1,SSc3 - Brownfield redevlopment
+SS,SSc4.1,Alternative transportation - public transportation access,cred,6,6,10,Marshall Wythe School of Law Addition,3,6/6,SSc4.1 - Alternative transportation - public transportation access
+SS,SSc4.2,Alternative transportation - bicycle storage and changing rooms,cred,1,0,10,Marshall Wythe School of Law Addition,3,0/1,SSc4.2 - Alternative transportation - bicycle storage and changing rooms
+SS,SSc4.3,Alternative transportation - low emitting and fuel efficient vehicles,cred,3,0,10,Marshall Wythe School of Law Addition,3,0/3,SSc4.3 - Alternative transportation - low emitting and fuel efficient vehicles
+SS,SSc4.4,Alternative transporation - parking capacity,cred,2,2,10,Marshall Wythe School of Law Addition,3,2/2,SSc4.4 - Alternative transporation - parking capacity
+SS,SSc5.1,Site development - protect or restore habitat,cred,1,0,10,Marshall Wythe School of Law Addition,3,0/1,SSc5.1 - Site development - protect or restore habitat
+SS,SSc5.2 ,Site development - maximize open space,cred,1,1,10,Marshall Wythe School of Law Addition,3,1/1,SSc5.2  - Site development - maximize open space
+SS,SSc6.1 ,Stormwater design - quantity control,cred,1,0,10,Marshall Wythe School of Law Addition,3,0/1,SSc6.1  - Stormwater design - quantity control
+SS,SSc6.2,Stormwater design - quality control,cred,1,0,10,Marshall Wythe School of Law Addition,3,0/1,SSc6.2 - Stormwater design - quality control
+SS,SSc7.1 ,Heat island effect - nonroof,cred,1,0,10,Marshall Wythe School of Law Addition,3,0/1,SSc7.1  - Heat island effect - nonroof
+SS,SSc7.2,Heat island effect - roof,cred,1,0,10,Marshall Wythe School of Law Addition,3,0/1,SSc7.2 - Heat island effect - roof
+SS,SSc8,Light pollution reduction,cred,1,0,10,Marshall Wythe School of Law Addition,3,0/1,SSc8 - Light pollution reduction
+WE,WE,Water efficiency,cat,10,4,10,Marshall Wythe School of Law Addition,3,4/10,WE - Water efficiency
+WE,WEp1,Water use reduction,prereq,0,0,10,Marshall Wythe School of Law Addition,3,prerequisite,WEp1 - Water use reduction
+WE,WEc1,Water efficient landscaping,cred,4,4,10,Marshall Wythe School of Law Addition,3,4/4,WEc1 - Water efficient landscaping
+WE,WEc2,Innovative wastewater technologies,cred,2,0,10,Marshall Wythe School of Law Addition,3,0/2,WEc2 - Innovative wastewater technologies
+WE,WEc3,Water use reduction,cred,4,0,10,Marshall Wythe School of Law Addition,3,0/4,WEc3 - Water use reduction
+EA,EA,Energy and Atmosphere,cat,53,17,10,Marshall Wythe School of Law Addition,3,17/53,EA - Energy and Atmosphere
+EA,EAp1,Fundamental commissioning of building energy systems,prereq,0,0,10,Marshall Wythe School of Law Addition,3,prerequisite,EAp1 - Fundamental commissioning of building energy systems
+EA,EAp2,Minimum energy performance,prereq,0,0,10,Marshall Wythe School of Law Addition,3,prerequisite,EAp2 - Minimum energy performance
+EA,EAp3,Fundamental refrigerant Mgmt,prereq,0,0,10,Marshall Wythe School of Law Addition,3,prerequisite,EAp3 - Fundamental refrigerant Mgmt
+EA,EAc1,Optimize energy performance,cred,19,17,10,Marshall Wythe School of Law Addition,3,17/19,EAc1 - Optimize energy performance
+EA,EAc2,On-site renewable energy,cred,7,0,10,Marshall Wythe School of Law Addition,3,0/7,EAc2 - On-site renewable energy
+EA,EAc3,Enhanced commissioning,cred,2,0,10,Marshall Wythe School of Law Addition,3,0/2,EAc3 - Enhanced commissioning
+EA,EAc4,Enhanced refrigerant Mgmt,cred,2,0,10,Marshall Wythe School of Law Addition,3,0/2,EAc4 - Enhanced refrigerant Mgmt
+EA,EAc5,Measurement and verification,cred,3,0,10,Marshall Wythe School of Law Addition,3,0/3,EAc5 - Measurement and verification
+EA,EAc6,Green power,cred,2,0,10,Marshall Wythe School of Law Addition,3,0/2,EAc6 - Green power
+EA,EAp4,Energy performance metering path,prereq,0,0,10,Marshall Wythe School of Law Addition,3,prerequisite,EAp4 - Energy performance metering path
+MR,MR,Material and Resources,cat,14,4,10,Marshall Wythe School of Law Addition,3,4/14,MR - Material and Resources
+MR,MRp1,Storage and collection of recyclables,prereq,0,0,10,Marshall Wythe School of Law Addition,3,prerequisite,MRp1 - Storage and collection of recyclables
+MR,MRc1.1,"Building reuse - maintain existing walls, floors, and roof",cred,3,0,10,Marshall Wythe School of Law Addition,3,0/3,"MRc1.1 - Building reuse - maintain existing walls, floors, and roof"
+MR,MRc1.2,Building reuse - maintain interior nonstructural element,cred,1,0,10,Marshall Wythe School of Law Addition,3,0/1,MRc1.2 - Building reuse - maintain interior nonstructural element
+MR,MRc2,Construction waste Mgmt,cred,2,2,10,Marshall Wythe School of Law Addition,3,2/2,MRc2 - Construction waste Mgmt
+MR,MRc3,Materials reuse,cred,2,0,10,Marshall Wythe School of Law Addition,3,0/2,MRc3 - Materials reuse
+MR,MRc4,Recycled content,cred,2,1,10,Marshall Wythe School of Law Addition,3,1/2,MRc4 - Recycled content
+MR,MRc5 ,Regional materials,cred,2,1,10,Marshall Wythe School of Law Addition,3,1/2,MRc5  - Regional materials
+MR,MRc6,Rapidly renewable materials,cred,1,0,10,Marshall Wythe School of Law Addition,3,0/1,MRc6 - Rapidly renewable materials
+MR,MRc7,Certified wood,cred,1,0,10,Marshall Wythe School of Law Addition,3,0/1,MRc7 - Certified wood
+EQ,EQ,Indoor Environmental Quality,cat,15,9,10,Marshall Wythe School of Law Addition,3,9/15,EQ - Indoor Environmental Quality
+EQ,EQp1,Minimum IAQ performance,prereq,0,0,10,Marshall Wythe School of Law Addition,3,prerequisite,EQp1 - Minimum IAQ performance
+EQ,EQp2,Environmental Tobacco Smoke (ETS) control,prereq,0,0,10,Marshall Wythe School of Law Addition,3,prerequisite,EQp2 - Environmental Tobacco Smoke (ETS) control
+EQ,EQc1,Outdoor air delivery monitoring,cred,1,0,10,Marshall Wythe School of Law Addition,3,0/1,EQc1 - Outdoor air delivery monitoring
+EQ,EQc2,Increased ventilation,cred,1,0,10,Marshall Wythe School of Law Addition,3,0/1,EQc2 - Increased ventilation
+EQ,EQc3.1,Construction IAQ Mgmt plan - during contruction,cred,1,1,10,Marshall Wythe School of Law Addition,3,1/1,EQc3.1 - Construction IAQ Mgmt plan - during contruction
+EQ,EQc3.2,Construction IAQ Mgmt plan - before occupancy,cred,1,1,10,Marshall Wythe School of Law Addition,3,1/1,EQc3.2 - Construction IAQ Mgmt plan - before occupancy
+EQ,EQc4.1,Low-emitting materials - adhesives and sealants,cred,1,1,10,Marshall Wythe School of Law Addition,3,1/1,EQc4.1 - Low-emitting materials - adhesives and sealants
+EQ,EQc4.2,Low-emitting materials - adhesives and sealants,cred,1,1,10,Marshall Wythe School of Law Addition,3,1/1,EQc4.2 - Low-emitting materials - adhesives and sealants
+EQ,EQc4.3,Low-emitting materials - flooring systems,cred,1,1,10,Marshall Wythe School of Law Addition,3,1/1,EQc4.3 - Low-emitting materials - flooring systems
+EQ,EQc4.4,Low-emitting materials - composite wood and agrifiber products,cred,1,1,10,Marshall Wythe School of Law Addition,3,1/1,EQc4.4 - Low-emitting materials - composite wood and agrifiber products
+EQ,EQc5,Indoor chemical and pollutant source control,cred,1,0,10,Marshall Wythe School of Law Addition,3,0/1,EQc5 - Indoor chemical and pollutant source control
+EQ,EQc6.1,Controllability of systems - lighting,cred,1,0,10,Marshall Wythe School of Law Addition,3,0/1,EQc6.1 - Controllability of systems - lighting
+EQ,EQc6.2,Controllability of systems - thermal comfort,cred,1,0,10,Marshall Wythe School of Law Addition,3,0/1,EQc6.2 - Controllability of systems - thermal comfort
+EQ,EQc7.1,Thermal comfort - design,cred,1,1,10,Marshall Wythe School of Law Addition,3,1/1,EQc7.1 - Thermal comfort - design
+EQ,EQc7.2,Thermal comfort - verification,cred,1,1,10,Marshall Wythe School of Law Addition,3,1/1,EQc7.2 - Thermal comfort - verification
+EQ,EQc8.1,Daylight and views - daylight,cred,1,1,10,Marshall Wythe School of Law Addition,3,1/1,EQc8.1 - Daylight and views - daylight
+EQ,EQc8.2,Daylight and views - views,cred,1,0,10,Marshall Wythe School of Law Addition,3,0/1,EQc8.2 - Daylight and views - views
+ID,ID,Innovation,cat,6,2,10,Marshall Wythe School of Law Addition,3,2/6,ID - Innovation
+ID,IDc1,Innovation in design,cred,5,1,10,Marshall Wythe School of Law Addition,3,1/5,IDc1 - Innovation in design
+ID,IDc2,LEED Accredited Professional,cred,1,1,10,Marshall Wythe School of Law Addition,3,1/1,IDc2 - LEED Accredited Professional
+RP,RP,Regional Priority Credits,cat,4,2,10,Marshall Wythe School of Law Addition,3,2/4,RP - Regional Priority Credits
+RP,SSc4.4,Alternative transportation - parking capacity,cred,1,1,10,Marshall Wythe School of Law Addition,3,1/1,SSc4.4 - Alternative transportation - parking capacity
+RP,SSc6.1,Stormwater design - quantity control,cred,1,0,10,Marshall Wythe School of Law Addition,3,0/1,SSc6.1 - Stormwater design - quantity control
+RP,WEc1,Water efficient landscaping,cred,1,1,10,Marshall Wythe School of Law Addition,3,1/1,WEc1 - Water efficient landscaping
+RP,WEc3,Water use reduction,cred,1,0,10,Marshall Wythe School of Law Addition,3,0/1,WEc3 - Water use reduction
+TO,TO,Total,cat,110,53,10,Marshall Wythe School of Law Addition,3,53/110,TO - Total
+SS,SS,Sustainable sites,cat,26,22,7,Chancellors Hall,3,22/26,SS - Sustainable sites
+SS,SSp1,Construction activity pollution prevention,prereq,0,0,7,Chancellors Hall,3,prerequisite,SSp1 - Construction activity pollution prevention
+SS,SSc1,Site selection,cred,1,1,7,Chancellors Hall,3,1/1,SSc1 - Site selection
+SS,SSc2,Development density and communnity connectivity,cred,5,5,7,Chancellors Hall,3,5/5,SSc2 - Development density and communnity connectivity
+SS,SSc3,Brownfield redevlopment,cred,1,1,7,Chancellors Hall,3,1/1,SSc3 - Brownfield redevlopment
+SS,SSc4.1,Alternative transportation - public transportation access,cred,6,6,7,Chancellors Hall,3,6/6,SSc4.1 - Alternative transportation - public transportation access
+SS,SSc4.2,Alternative transportation - bicycle storage and changing rooms,cred,1,1,7,Chancellors Hall,3,1/1,SSc4.2 - Alternative transportation - bicycle storage and changing rooms
+SS,SSc4.3,Alternative transportation - low emitting and fuel efficient vehicles,cred,3,3,7,Chancellors Hall,3,3/3,SSc4.3 - Alternative transportation - low emitting and fuel efficient vehicles
+SS,SSc4.4,Alternative transporation - parking capacity,cred,2,2,7,Chancellors Hall,3,2/2,SSc4.4 - Alternative transporation - parking capacity
+SS,SSc5.1,Site development - protect or restore habitat,cred,1,1,7,Chancellors Hall,3,1/1,SSc5.1 - Site development - protect or restore habitat
+SS,SSc5.2 ,Site development - maximize open space,cred,1,1,7,Chancellors Hall,3,1/1,SSc5.2  - Site development - maximize open space
+SS,SSc6.1 ,Stormwater design - quantity control,cred,1,0,7,Chancellors Hall,3,0/1,SSc6.1  - Stormwater design - quantity control
+SS,SSc6.2,Stormwater design - quality control,cred,1,0,7,Chancellors Hall,3,0/1,SSc6.2 - Stormwater design - quality control
+SS,SSc7.1 ,Heat island effect - nonroof,cred,1,1,7,Chancellors Hall,3,1/1,SSc7.1  - Heat island effect - nonroof
+SS,SSc7.2,Heat island effect - roof,cred,1,0,7,Chancellors Hall,3,0/1,SSc7.2 - Heat island effect - roof
+SS,SSc8,Light pollution reduction,cred,1,0,7,Chancellors Hall,3,0/1,SSc8 - Light pollution reduction
+WE,WE,Water efficiency,cat,10,8,7,Chancellors Hall,3,8/10,WE - Water efficiency
+WE,WEp1,Water use reduction,prereq,0,0,7,Chancellors Hall,3,prerequisite,WEp1 - Water use reduction
+WE,WEc1,Water efficient landscaping,cred,4,4,7,Chancellors Hall,3,4/4,WEc1 - Water efficient landscaping
+WE,WEc2,Innovative wastewater technologies,cred,2,0,7,Chancellors Hall,3,0/2,WEc2 - Innovative wastewater technologies
+WE,WEc3,Water use reduction,cred,4,4,7,Chancellors Hall,3,4/4,WEc3 - Water use reduction
+EA,EA,Energy and Atmosphere,cat,53,10,7,Chancellors Hall,3,10/53,EA - Energy and Atmosphere
+EA,EAp1,Fundamental commissioning of building energy systems,prereq,0,0,7,Chancellors Hall,3,prerequisite,EAp1 - Fundamental commissioning of building energy systems
+EA,EAp2,Minimum energy performance,prereq,0,0,7,Chancellors Hall,3,prerequisite,EAp2 - Minimum energy performance
+EA,EAp3,Fundamental refrigerant Mgmt,prereq,0,0,7,Chancellors Hall,3,prerequisite,EAp3 - Fundamental refrigerant Mgmt
+EA,EAc1,Optimize energy performance,cred,19,6,7,Chancellors Hall,3,6/19,EAc1 - Optimize energy performance
+EA,EAc2,On-site renewable energy,cred,7,0,7,Chancellors Hall,3,0/7,EAc2 - On-site renewable energy
+EA,EAc3,Enhanced commissioning,cred,2,2,7,Chancellors Hall,3,2/2,EAc3 - Enhanced commissioning
+EA,EAc4,Enhanced refrigerant Mgmt,cred,2,2,7,Chancellors Hall,3,2/2,EAc4 - Enhanced refrigerant Mgmt
+EA,EAc5,Measurement and verification,cred,3,0,7,Chancellors Hall,3,0/3,EAc5 - Measurement and verification
+EA,EAc6,Green power,cred,2,0,7,Chancellors Hall,3,0/2,EAc6 - Green power
+EA,EAp4,Energy performance metering path,prereq,0,0,7,Chancellors Hall,3,prerequisite,EAp4 - Energy performance metering path
+MR,MR,Material and Resources,cat,14,6,7,Chancellors Hall,3,6/14,MR - Material and Resources
+MR,MRp1,Storage and collection of recyclables,prereq,0,0,7,Chancellors Hall,3,prerequisite,MRp1 - Storage and collection of recyclables
+MR,MRc1.1,"Building reuse - maintain existing walls, floors, and roof",cred,3,0,7,Chancellors Hall,3,0/3,"MRc1.1 - Building reuse - maintain existing walls, floors, and roof"
+MR,MRc1.2,Building reuse - maintain interior nonstructural element,cred,1,0,7,Chancellors Hall,3,0/1,MRc1.2 - Building reuse - maintain interior nonstructural element
+MR,MRc2,Construction waste Mgmt,cred,2,2,7,Chancellors Hall,3,2/2,MRc2 - Construction waste Mgmt
+MR,MRc3,Materials reuse,cred,2,0,7,Chancellors Hall,3,0/2,MRc3 - Materials reuse
+MR,MRc4,Recycled content,cred,2,2,7,Chancellors Hall,3,2/2,MRc4 - Recycled content
+MR,MRc5 ,Regional materials,cred,2,2,7,Chancellors Hall,3,2/2,MRc5  - Regional materials
+MR,MRc6,Rapidly renewable materials,cred,1,0,7,Chancellors Hall,3,0/1,MRc6 - Rapidly renewable materials
+MR,MRc7,Certified wood,cred,1,0,7,Chancellors Hall,3,0/1,MRc7 - Certified wood
+EQ,EQ,Indoor Environmental Quality,cat,15,10,7,Chancellors Hall,3,10/15,EQ - Indoor Environmental Quality
+EQ,EQp1,Minimum IAQ performance,prereq,0,0,7,Chancellors Hall,3,prerequisite,EQp1 - Minimum IAQ performance
+EQ,EQp2,Environmental Tobacco Smoke (ETS) control,prereq,0,0,7,Chancellors Hall,3,prerequisite,EQp2 - Environmental Tobacco Smoke (ETS) control
+EQ,EQc1,Outdoor air delivery monitoring,cred,1,1,7,Chancellors Hall,3,1/1,EQc1 - Outdoor air delivery monitoring
+EQ,EQc2,Increased ventilation,cred,1,0,7,Chancellors Hall,3,0/1,EQc2 - Increased ventilation
+EQ,EQc3.1,Construction IAQ Mgmt plan - during contruction,cred,1,1,7,Chancellors Hall,3,1/1,EQc3.1 - Construction IAQ Mgmt plan - during contruction
+EQ,EQc3.2,Construction IAQ Mgmt plan - before occupancy,cred,1,0,7,Chancellors Hall,3,0/1,EQc3.2 - Construction IAQ Mgmt plan - before occupancy
+EQ,EQc4.1,Low-emitting materials - adhesives and sealants,cred,1,1,7,Chancellors Hall,3,1/1,EQc4.1 - Low-emitting materials - adhesives and sealants
+EQ,EQc4.2,Low-emitting materials - adhesives and sealants,cred,1,1,7,Chancellors Hall,3,1/1,EQc4.2 - Low-emitting materials - adhesives and sealants
+EQ,EQc4.3,Low-emitting materials - flooring systems,cred,1,1,7,Chancellors Hall,3,1/1,EQc4.3 - Low-emitting materials - flooring systems
+EQ,EQc4.4,Low-emitting materials - composite wood and agrifiber products,cred,1,1,7,Chancellors Hall,3,1/1,EQc4.4 - Low-emitting materials - composite wood and agrifiber products
+EQ,EQc5,Indoor chemical and pollutant source control,cred,1,1,7,Chancellors Hall,3,1/1,EQc5 - Indoor chemical and pollutant source control
+EQ,EQc6.1,Controllability of systems - lighting,cred,1,1,7,Chancellors Hall,3,1/1,EQc6.1 - Controllability of systems - lighting
+EQ,EQc6.2,Controllability of systems - thermal comfort,cred,1,1,7,Chancellors Hall,3,1/1,EQc6.2 - Controllability of systems - thermal comfort
+EQ,EQc7.1,Thermal comfort - design,cred,1,1,7,Chancellors Hall,3,1/1,EQc7.1 - Thermal comfort - design
+EQ,EQc7.2,Thermal comfort - verification,cred,1,0,7,Chancellors Hall,3,0/1,EQc7.2 - Thermal comfort - verification
+EQ,EQc8.1,Daylight and views - daylight,cred,1,0,7,Chancellors Hall,3,0/1,EQc8.1 - Daylight and views - daylight
+EQ,EQc8.2,Daylight and views - views,cred,1,0,7,Chancellors Hall,3,0/1,EQc8.2 - Daylight and views - views
+ID,ID,Innovation,cat,6,4,7,Chancellors Hall,3,4/6,ID - Innovation
+ID,IDc1,Innovation in design,cred,5,3,7,Chancellors Hall,3,3/5,IDc1 - Innovation in design
+ID,IDc2,LEED Accredited Professional,cred,1,1,7,Chancellors Hall,3,1/1,IDc2 - LEED Accredited Professional
+RP,RP,Regional Priority Credits,cat,4,3,7,Chancellors Hall,3,3/4,RP - Regional Priority Credits
+RP,SSc4.4,Alternative transportation - parking capacity,cred,1,1,7,Chancellors Hall,3,1/1,SSc4.4 - Alternative transportation - parking capacity
+RP,SSc6.1,Stormwater design - quantity control,cred,1,0,7,Chancellors Hall,3,0/1,SSc6.1 - Stormwater design - quantity control
+RP,WEc1,Water efficient landscaping,cred,1,1,7,Chancellors Hall,3,1/1,WEc1 - Water efficient landscaping
+RP,WEc3,Water use reduction,cred,1,1,7,Chancellors Hall,3,1/1,WEc3 - Water use reduction
+TO,TO,Total,cat,110,63,7,Chancellors Hall,3,63/110,TO - Total
+SS,SS,Sustainable sites,cat,26,15,9,Landrum Hall,3,15/26,SS - Sustainable sites
+SS,SSp1,Construction activity pollution prevention,prereq,0,0,9,Landrum Hall,3,prerequisite,SSp1 - Construction activity pollution prevention
+SS,SSc1,Site selection,cred,1,1,9,Landrum Hall,3,1/1,SSc1 - Site selection
+SS,SSc2,Development density and communnity connectivity,cred,5,5,9,Landrum Hall,3,5/5,SSc2 - Development density and communnity connectivity
+SS,SSc3,Brownfield redevlopment,cred,1,0,9,Landrum Hall,3,0/1,SSc3 - Brownfield redevlopment
+SS,SSc4.1,Alternative transportation - public transportation access,cred,6,6,9,Landrum Hall,3,6/6,SSc4.1 - Alternative transportation - public transportation access
+SS,SSc4.2,Alternative transportation - bicycle storage and changing rooms,cred,1,0,9,Landrum Hall,3,0/1,SSc4.2 - Alternative transportation - bicycle storage and changing rooms
+SS,SSc4.3,Alternative transportation - low emitting and fuel efficient vehicles,cred,3,0,9,Landrum Hall,3,0/3,SSc4.3 - Alternative transportation - low emitting and fuel efficient vehicles
+SS,SSc4.4,Alternative transporation - parking capacity,cred,2,2,9,Landrum Hall,3,2/2,SSc4.4 - Alternative transporation - parking capacity
+SS,SSc5.1,Site development - protect or restore habitat,cred,1,0,9,Landrum Hall,3,0/1,SSc5.1 - Site development - protect or restore habitat
+SS,SSc5.2 ,Site development - maximize open space,cred,1,1,9,Landrum Hall,3,1/1,SSc5.2  - Site development - maximize open space
+SS,SSc6.1 ,Stormwater design - quantity control,cred,1,0,9,Landrum Hall,3,0/1,SSc6.1  - Stormwater design - quantity control
+SS,SSc6.2,Stormwater design - quality control,cred,1,0,9,Landrum Hall,3,0/1,SSc6.2 - Stormwater design - quality control
+SS,SSc7.1 ,Heat island effect - nonroof,cred,1,0,9,Landrum Hall,3,0/1,SSc7.1  - Heat island effect - nonroof
+SS,SSc7.2,Heat island effect - roof,cred,1,0,9,Landrum Hall,3,0/1,SSc7.2 - Heat island effect - roof
+SS,SSc8,Light pollution reduction,cred,1,0,9,Landrum Hall,3,0/1,SSc8 - Light pollution reduction
+WE,WE,Water efficiency,cat,10,8,9,Landrum Hall,3,8/10,WE - Water efficiency
+WE,WEp1,Water use reduction,prereq,0,0,9,Landrum Hall,3,prerequisite,WEp1 - Water use reduction
+WE,WEc1,Water efficient landscaping,cred,4,4,9,Landrum Hall,3,4/4,WEc1 - Water efficient landscaping
+WE,WEc2,Innovative wastewater technologies,cred,2,0,9,Landrum Hall,3,0/2,WEc2 - Innovative wastewater technologies
+WE,WEc3,Water use reduction,cred,4,4,9,Landrum Hall,3,4/4,WEc3 - Water use reduction
+EA,EA,Energy and Atmosphere,cat,53,9,9,Landrum Hall,3,9/53,EA - Energy and Atmosphere
+EA,EAp1,Fundamental commissioning of building energy systems,prereq,0,0,9,Landrum Hall,3,prerequisite,EAp1 - Fundamental commissioning of building energy systems
+EA,EAp2,Minimum energy performance,prereq,0,0,9,Landrum Hall,3,prerequisite,EAp2 - Minimum energy performance
+EA,EAp3,Fundamental refrigerant Mgmt,prereq,0,0,9,Landrum Hall,3,prerequisite,EAp3 - Fundamental refrigerant Mgmt
+EA,EAc1,Optimize energy performance,cred,19,4,9,Landrum Hall,3,4/19,EAc1 - Optimize energy performance
+EA,EAc2,On-site renewable energy,cred,7,0,9,Landrum Hall,3,0/7,EAc2 - On-site renewable energy
+EA,EAc3,Enhanced commissioning,cred,2,2,9,Landrum Hall,3,2/2,EAc3 - Enhanced commissioning
+EA,EAc4,Enhanced refrigerant Mgmt,cred,2,2,9,Landrum Hall,3,2/2,EAc4 - Enhanced refrigerant Mgmt
+EA,EAc5,Measurement and verification,cred,3,1,9,Landrum Hall,3,1/3,EAc5 - Measurement and verification
+EA,EAc6,Green power,cred,2,0,9,Landrum Hall,3,0/2,EAc6 - Green power
+EA,EAp4,Energy performance metering path,prereq,0,0,9,Landrum Hall,3,prerequisite,EAp4 - Energy performance metering path
+MR,MR,Material and Resources,cat,14,6,9,Landrum Hall,3,6/14,MR - Material and Resources
+MR,MRp1,Storage and collection of recyclables,prereq,0,0,9,Landrum Hall,3,prerequisite,MRp1 - Storage and collection of recyclables
+MR,MRc1.1,"Building reuse - maintain existing walls, floors, and roof",cred,3,2,9,Landrum Hall,3,2/3,"MRc1.1 - Building reuse - maintain existing walls, floors, and roof"
+MR,MRc1.2,Building reuse - maintain interior nonstructural element,cred,1,0,9,Landrum Hall,3,0/1,MRc1.2 - Building reuse - maintain interior nonstructural element
+MR,MRc2,Construction waste Mgmt,cred,2,0,9,Landrum Hall,3,0/2,MRc2 - Construction waste Mgmt
+MR,MRc3,Materials reuse,cred,2,0,9,Landrum Hall,3,0/2,MRc3 - Materials reuse
+MR,MRc4,Recycled content,cred,2,2,9,Landrum Hall,3,2/2,MRc4 - Recycled content
+MR,MRc5 ,Regional materials,cred,2,2,9,Landrum Hall,3,2/2,MRc5  - Regional materials
+MR,MRc6,Rapidly renewable materials,cred,1,0,9,Landrum Hall,3,0/1,MRc6 - Rapidly renewable materials
+MR,MRc7,Certified wood,cred,1,0,9,Landrum Hall,3,0/1,MRc7 - Certified wood
+EQ,EQ,Indoor Environmental Quality,cat,15,10,9,Landrum Hall,3,10/15,EQ - Indoor Environmental Quality
+EQ,EQp1,Minimum IAQ performance,prereq,0,0,9,Landrum Hall,3,prerequisite,EQp1 - Minimum IAQ performance
+EQ,EQp2,Environmental Tobacco Smoke (ETS) control,prereq,0,0,9,Landrum Hall,3,prerequisite,EQp2 - Environmental Tobacco Smoke (ETS) control
+EQ,EQc1,Outdoor air delivery monitoring,cred,1,0,9,Landrum Hall,3,0/1,EQc1 - Outdoor air delivery monitoring
+EQ,EQc2,Increased ventilation,cred,1,0,9,Landrum Hall,3,0/1,EQc2 - Increased ventilation
+EQ,EQc3.1,Construction IAQ Mgmt plan - during contruction,cred,1,1,9,Landrum Hall,3,1/1,EQc3.1 - Construction IAQ Mgmt plan - during contruction
+EQ,EQc3.2,Construction IAQ Mgmt plan - before occupancy,cred,1,1,9,Landrum Hall,3,1/1,EQc3.2 - Construction IAQ Mgmt plan - before occupancy
+EQ,EQc4.1,Low-emitting materials - adhesives and sealants,cred,1,1,9,Landrum Hall,3,1/1,EQc4.1 - Low-emitting materials - adhesives and sealants
+EQ,EQc4.2,Low-emitting materials - adhesives and sealants,cred,1,1,9,Landrum Hall,3,1/1,EQc4.2 - Low-emitting materials - adhesives and sealants
+EQ,EQc4.3,Low-emitting materials - flooring systems,cred,1,1,9,Landrum Hall,3,1/1,EQc4.3 - Low-emitting materials - flooring systems
+EQ,EQc4.4,Low-emitting materials - composite wood and agrifiber products,cred,1,1,9,Landrum Hall,3,1/1,EQc4.4 - Low-emitting materials - composite wood and agrifiber products
+EQ,EQc5,Indoor chemical and pollutant source control,cred,1,0,9,Landrum Hall,3,0/1,EQc5 - Indoor chemical and pollutant source control
+EQ,EQc6.1,Controllability of systems - lighting,cred,1,1,9,Landrum Hall,3,1/1,EQc6.1 - Controllability of systems - lighting
+EQ,EQc6.2,Controllability of systems - thermal comfort,cred,1,1,9,Landrum Hall,3,1/1,EQc6.2 - Controllability of systems - thermal comfort
+EQ,EQc7.1,Thermal comfort - design,cred,1,1,9,Landrum Hall,3,1/1,EQc7.1 - Thermal comfort - design
+EQ,EQc7.2,Thermal comfort - verification,cred,1,0,9,Landrum Hall,3,0/1,EQc7.2 - Thermal comfort - verification
+EQ,EQc8.1,Daylight and views - daylight,cred,1,1,9,Landrum Hall,3,1/1,EQc8.1 - Daylight and views - daylight
+EQ,EQc8.2,Daylight and views - views,cred,1,0,9,Landrum Hall,3,0/1,EQc8.2 - Daylight and views - views
+ID,ID,Innovation,cat,6,5,9,Landrum Hall,3,5/6,ID - Innovation
+ID,IDc1,Innovation in design,cred,5,4,9,Landrum Hall,3,4/5,IDc1 - Innovation in design
+ID,IDc2,LEED Accredited Professional,cred,1,1,9,Landrum Hall,3,1/1,IDc2 - LEED Accredited Professional
+RP,RP,Regional Priority Credits,cat,4,3,9,Landrum Hall,3,3/4,RP - Regional Priority Credits
+RP,EAc2,On-site renewable energy,cred,1,0,9,Landrum Hall,3,0/1,EAc2 - On-site renewable energy
+RP,SSc4.4,Alternative transportation - parking capacity,cred,1,1,9,Landrum Hall,3,1/1,SSc4.4 - Alternative transportation - parking capacity
+RP,SSc6.1,Stormwater design - quantity control,cred,1,0,9,Landrum Hall,3,0/1,SSc6.1 - Stormwater design - quantity control
+RP,WEc1,Water efficient landscaping,cred,1,1,9,Landrum Hall,3,1/1,WEc1 - Water efficient landscaping
+RP,WEc2,Innovative wastewater technologies,cred,1,0,9,Landrum Hall,3,0/1,WEc2 - Innovative wastewater technologies
+RP,WEc3,Water use reduction,cred,1,1,9,Landrum Hall,3,1/1,WEc3 - Water use reduction
+TO,TO,Total,cat,110,56,9,Landrum Hall,3,56/110,TO - Total
+SS,SS,Sustainable sites,cat,26,20,8,ISC 3,3,20/26,SS - Sustainable sites
+SS,SSp1,Construction activity pollution prevention,prereq,0,0,8,ISC 3,3,prerequisite,SSp1 - Construction activity pollution prevention
+SS,SSc1,Site selection,cred,1,1,8,ISC 3,3,1/1,SSc1 - Site selection
+SS,SSc2,Development density and communnity connectivity,cred,5,5,8,ISC 3,3,5/5,SSc2 - Development density and communnity connectivity
+SS,SSc3,Brownfield redevlopment,cred,1,0,8,ISC 3,3,0/1,SSc3 - Brownfield redevlopment
+SS,SSc4.1,Alternative transportation - public transportation access,cred,6,6,8,ISC 3,3,6/6,SSc4.1 - Alternative transportation - public transportation access
+SS,SSc4.2,Alternative transportation - bicycle storage and changing rooms,cred,1,1,8,ISC 3,3,1/1,SSc4.2 - Alternative transportation - bicycle storage and changing rooms
+SS,SSc4.3,Alternative transportation - low emitting and fuel efficient vehicles,cred,3,3,8,ISC 3,3,3/3,SSc4.3 - Alternative transportation - low emitting and fuel efficient vehicles
+SS,SSc4.4,Alternative transporation - parking capacity,cred,2,2,8,ISC 3,3,2/2,SSc4.4 - Alternative transporation - parking capacity
+SS,SSc5.1,Site development - protect or restore habitat,cred,1,0,8,ISC 3,3,0/1,SSc5.1 - Site development - protect or restore habitat
+SS,SSc5.2 ,Site development - maximize open space,cred,1,1,8,ISC 3,3,1/1,SSc5.2  - Site development - maximize open space
+SS,SSc6.1 ,Stormwater design - quantity control,cred,1,0,8,ISC 3,3,0/1,SSc6.1  - Stormwater design - quantity control
+SS,SSc6.2,Stormwater design - quality control,cred,1,0,8,ISC 3,3,0/1,SSc6.2 - Stormwater design - quality control
+SS,SSc7.1 ,Heat island effect - nonroof,cred,1,0,8,ISC 3,3,0/1,SSc7.1  - Heat island effect - nonroof
+SS,SSc7.2,Heat island effect - roof,cred,1,1,8,ISC 3,3,1/1,SSc7.2 - Heat island effect - roof
+SS,SSc8,Light pollution reduction,cred,1,0,8,ISC 3,3,0/1,SSc8 - Light pollution reduction
+WE,WE,Water efficiency,cat,10,4,8,ISC 3,3,4/10,WE - Water efficiency
+WE,WEp1,Water use reduction,prereq,0,0,8,ISC 3,3,prerequisite,WEp1 - Water use reduction
+WE,WEc1,Water efficient landscaping,cred,4,2,8,ISC 3,3,2/4,WEc1 - Water efficient landscaping
+WE,WEc2,Innovative wastewater technologies,cred,2,0,8,ISC 3,3,0/2,WEc2 - Innovative wastewater technologies
+WE,WEc3,Water use reduction,cred,4,2,8,ISC 3,3,2/4,WEc3 - Water use reduction
+EA,EA,Energy and Atmosphere,cat,53,15,8,ISC 3,3,15/53,EA - Energy and Atmosphere
+EA,EAp1,Fundamental commissioning of building energy systems,prereq,0,0,8,ISC 3,3,prerequisite,EAp1 - Fundamental commissioning of building energy systems
+EA,EAp2,Minimum energy performance,prereq,0,0,8,ISC 3,3,prerequisite,EAp2 - Minimum energy performance
+EA,EAp3,Fundamental refrigerant Mgmt,prereq,0,0,8,ISC 3,3,prerequisite,EAp3 - Fundamental refrigerant Mgmt
+EA,EAc1,Optimize energy performance,cred,19,10,8,ISC 3,3,10/19,EAc1 - Optimize energy performance
+EA,EAc2,On-site renewable energy,cred,7,0,8,ISC 3,3,0/7,EAc2 - On-site renewable energy
+EA,EAc3,Enhanced commissioning,cred,2,2,8,ISC 3,3,2/2,EAc3 - Enhanced commissioning
+EA,EAc4,Enhanced refrigerant Mgmt,cred,2,0,8,ISC 3,3,0/2,EAc4 - Enhanced refrigerant Mgmt
+EA,EAc5,Measurement and verification,cred,3,3,8,ISC 3,3,3/3,EAc5 - Measurement and verification
+EA,EAc6,Green power,cred,2,0,8,ISC 3,3,0/2,EAc6 - Green power
+EA,EAp4,Energy performance metering path,prereq,0,0,8,ISC 3,3,prerequisite,EAp4 - Energy performance metering path
+MR,MR,Material and Resources,cat,14,7,8,ISC 3,3,7/14,MR - Material and Resources
+MR,MRp1,Storage and collection of recyclables,prereq,0,0,8,ISC 3,3,prerequisite,MRp1 - Storage and collection of recyclables
+MR,MRc1.1,"Building reuse - maintain existing walls, floors, and roof",cred,3,0,8,ISC 3,3,0/3,"MRc1.1 - Building reuse - maintain existing walls, floors, and roof"
+MR,MRc1.2,Building reuse - maintain interior nonstructural element,cred,1,0,8,ISC 3,3,0/1,MRc1.2 - Building reuse - maintain interior nonstructural element
+MR,MRc2,Construction waste Mgmt,cred,2,2,8,ISC 3,3,2/2,MRc2 - Construction waste Mgmt
+MR,MRc3,Materials reuse,cred,2,0,8,ISC 3,3,0/2,MRc3 - Materials reuse
+MR,MRc4,Recycled content,cred,2,2,8,ISC 3,3,2/2,MRc4 - Recycled content
+MR,MRc5 ,Regional materials,cred,2,2,8,ISC 3,3,2/2,MRc5  - Regional materials
+MR,MRc6,Rapidly renewable materials,cred,1,0,8,ISC 3,3,0/1,MRc6 - Rapidly renewable materials
+MR,MRc7,Certified wood,cred,1,1,8,ISC 3,3,1/1,MRc7 - Certified wood
+EQ,EQ,Indoor Environmental Quality,cat,15,11,8,ISC 3,3,11/15,EQ - Indoor Environmental Quality
+EQ,EQp1,Minimum IAQ performance,prereq,0,0,8,ISC 3,3,prerequisite,EQp1 - Minimum IAQ performance
+EQ,EQp2,Environmental Tobacco Smoke (ETS) control,prereq,0,0,8,ISC 3,3,prerequisite,EQp2 - Environmental Tobacco Smoke (ETS) control
+EQ,EQc1,Outdoor air delivery monitoring,cred,1,1,8,ISC 3,3,1/1,EQc1 - Outdoor air delivery monitoring
+EQ,EQc2,Increased ventilation,cred,1,0,8,ISC 3,3,0/1,EQc2 - Increased ventilation
+EQ,EQc3.1,Construction IAQ Mgmt plan - during contruction,cred,1,1,8,ISC 3,3,1/1,EQc3.1 - Construction IAQ Mgmt plan - during contruction
+EQ,EQc3.2,Construction IAQ Mgmt plan - before occupancy,cred,1,1,8,ISC 3,3,1/1,EQc3.2 - Construction IAQ Mgmt plan - before occupancy
+EQ,EQc4.1,Low-emitting materials - adhesives and sealants,cred,1,1,8,ISC 3,3,1/1,EQc4.1 - Low-emitting materials - adhesives and sealants
+EQ,EQc4.2,Low-emitting materials - adhesives and sealants,cred,1,1,8,ISC 3,3,1/1,EQc4.2 - Low-emitting materials - adhesives and sealants
+EQ,EQc4.3,Low-emitting materials - flooring systems,cred,1,1,8,ISC 3,3,1/1,EQc4.3 - Low-emitting materials - flooring systems
+EQ,EQc4.4,Low-emitting materials - composite wood and agrifiber products,cred,1,1,8,ISC 3,3,1/1,EQc4.4 - Low-emitting materials - composite wood and agrifiber products
+EQ,EQc5,Indoor chemical and pollutant source control,cred,1,1,8,ISC 3,3,1/1,EQc5 - Indoor chemical and pollutant source control
+EQ,EQc6.1,Controllability of systems - lighting,cred,1,1,8,ISC 3,3,1/1,EQc6.1 - Controllability of systems - lighting
+EQ,EQc6.2,Controllability of systems - thermal comfort,cred,1,1,8,ISC 3,3,1/1,EQc6.2 - Controllability of systems - thermal comfort
+EQ,EQc7.1,Thermal comfort - design,cred,1,1,8,ISC 3,3,1/1,EQc7.1 - Thermal comfort - design
+EQ,EQc7.2,Thermal comfort - verification,cred,1,0,8,ISC 3,3,0/1,EQc7.2 - Thermal comfort - verification
+EQ,EQc8.1,Daylight and views - daylight,cred,1,0,8,ISC 3,3,0/1,EQc8.1 - Daylight and views - daylight
+EQ,EQc8.2,Daylight and views - views,cred,1,0,8,ISC 3,3,0/1,EQc8.2 - Daylight and views - views
+ID,ID,Innovation,cat,6,4,8,ISC 3,3,4/6,ID - Innovation
+ID,IDc1,Innovation in design,cred,5,3,8,ISC 3,3,3/5,IDc1 - Innovation in design
+ID,IDc2,LEED Accredited Professional,cred,1,1,8,ISC 3,3,1/1,IDc2 - LEED Accredited Professional
+RP,RP,Regional Priority Credits,cat,4,2,8,ISC 3,3,2/4,RP - Regional Priority Credits
+RP,SSc4.4,Alternative transportation - parking capacity,cred,1,1,8,ISC 3,3,1/1,SSc4.4 - Alternative transportation - parking capacity
+RP,WEc1,Water efficient landscaping,cred,1,1,8,ISC 3,3,1/1,WEc1 - Water efficient landscaping
+RP,WEc3,Water use reduction,cred,1,0,8,ISC 3,3,0/1,WEc3 - Water use reduction
+TO,TO,Total,cat,110,63,8,ISC 3,3,63/110,TO - Total
+SS,SS,Sustainable Sites,cat,10,1,22,Sadler West Expansion,4,1/10,SS - Sustainable Sites
+SS,SSp1,Construction activity pollution prevention,prereq,0,0,22,Sadler West Expansion,4,prerequisite,SSp1 - Construction activity pollution prevention
+SS,SSc1,Site assessment,cred,1,1,22,Sadler West Expansion,4,1/1,SSc1 - Site assessment
+SS,SSc2,Site development - protect or restore habitat,cred,2,0,22,Sadler West Expansion,4,0/2,SSc2 - Site development - protect or restore habitat
+SS,SSc3,Open space,cred,1,0,22,Sadler West Expansion,4,0/1,SSc3 - Open space
+SS,SSc4,Rainwater mgmt,cred,3,0,22,Sadler West Expansion,4,0/3,SSc4 - Rainwater mgmt
+SS,SSc5,Heat island reduction,cred,2,0,22,Sadler West Expansion,4,0/2,SSc5 - Heat island reduction
+SS,SSc6,Light pollution reduction,cred,1,0,22,Sadler West Expansion,4,0/1,SSc6 - Light pollution reduction
+WE,WE,Water Efficiency,cat,11,3,22,Sadler West Expansion,4,3/11,WE - Water Efficiency
+WE,WEp1,Outdoor water use reduction,prereq,0,0,22,Sadler West Expansion,4,prerequisite,WEp1 - Outdoor water use reduction
+WE,WEp2,Indoor water use reduction,prereq,0,0,22,Sadler West Expansion,4,prerequisite,WEp2 - Indoor water use reduction
+WE,WEp3,Building level water metering,prereq,0,0,22,Sadler West Expansion,4,prerequisite,WEp3 - Building level water metering
+WE,WEc1,Cooling tower water use,cred,2,0,22,Sadler West Expansion,4,0/2,WEc1 - Cooling tower water use
+WE,WEc2,Water metering,cred,1,0,22,Sadler West Expansion,4,0/1,WEc2 - Water metering
+WE,WEc3,Outdoor water use reduction,cred,2,2,22,Sadler West Expansion,4,2/2,WEc3 - Outdoor water use reduction
+WE,WEc4,Indoor water use reduction,cred,6,1,22,Sadler West Expansion,4,1/6,WEc4 - Indoor water use reduction
+EA,EA,Energy and Atmosphere,cat,89,24,22,Sadler West Expansion,4,24/89,EA - Energy and Atmosphere
+EA,EAp1,Fundmanetal commissioning and verification,prereq,0,0,22,Sadler West Expansion,4,prerequisite,EAp1 - Fundmanetal commissioning and verification
+EA,EAp2,Minimum energy performance,prereq,0,0,22,Sadler West Expansion,4,prerequisite,EAp2 - Minimum energy performance
+EA,EAp3,Building-level energy metering,prereq,0,0,22,Sadler West Expansion,4,prerequisite,EAp3 - Building-level energy metering
+EA,EAp4,Fundamental refrigerant Mgmt,prereq,0,0,22,Sadler West Expansion,4,prerequisite,EAp4 - Fundamental refrigerant Mgmt
+EA,EAp5,Minimum energy performance (2024 update),prereq,0,0,22,Sadler West Expansion,4,prerequisite,EAp5 - Minimum energy performance (2024 update)
+EA,EAc1,Enhanced commissioning,cred,6,3,22,Sadler West Expansion,4,3/6,EAc1 - Enhanced commissioning
+EA,EAc2,Advanced energy metering,cred,1,0,22,Sadler West Expansion,4,0/1,EAc2 - Advanced energy metering
+EA,EAc3,Demand response,cred,2,0,22,Sadler West Expansion,4,0/2,EAc3 - Demand response
+EA,EAc4,Renewable energy production,cred,3,3,22,Sadler West Expansion,4,3/3,EAc4 - Renewable energy production
+EA,EAc5,Enhanced refrigerant Mgmt,cred,1,1,22,Sadler West Expansion,4,1/1,EAc5 - Enhanced refrigerant Mgmt
+EA,EAc6,Green power and carbon offsets,cred,2,0,22,Sadler West Expansion,4,0/2,EAc6 - Green power and carbon offsets
+EA,EAc7,Optimize energy performance (2024 Update),cred,20,0,22,Sadler West Expansion,4,0/20,EAc7 - Optimize energy performance (2024 Update)
+EA,EAc8,Optimize energy performance,cred,18,17,22,Sadler West Expansion,4,17/18,EAc8 - Optimize energy performance
+EA,EAp6,Energy performance metering path,prereq,0,0,22,Sadler West Expansion,4,prerequisite,EAp6 - Energy performance metering path
+EA,EAp7,District energy,prereq,0,0,22,Sadler West Expansion,4,prerequisite,EAp7 - District energy
+MR,MR,Material and Resources,cat,13,9,22,Sadler West Expansion,4,9/13,MR - Material and Resources
+MR,MRp1,Storage and collection of recyclables,prereq,0,0,22,Sadler West Expansion,4,prerequisite,MRp1 - Storage and collection of recyclables
+MR,MRp2,Construction and demolition waste Mgmt planning,prereq,0,0,22,Sadler West Expansion,4,prerequisite,MRp2 - Construction and demolition waste Mgmt planning
+MR,MRc1,Building life cycle impact reduction,cred,5,5,22,Sadler West Expansion,4,5/5,MRc1 - Building life cycle impact reduction
+MR,MRc2,Building product discolsure and optimization - environmental product d...,cred,2,1,22,Sadler West Expansion,4,1/2,MRc2 - Building product discolsure and optimization - environmental product d...
+MR,MRc3,Building product disclosure and optimization - sourcing of raw materials,cred,2,0,22,Sadler West Expansion,4,0/2,MRc3 - Building product disclosure and optimization - sourcing of raw materials
+MR,MRc4,Building product disclosure and optimization - material ingrediencts,cred,2,1,22,Sadler West Expansion,4,1/2,MRc4 - Building product disclosure and optimization - material ingrediencts
+MR,MRc5,Construction and demolition waste Mgmt ,cred,2,2,22,Sadler West Expansion,4,2/2,MRc5 - Construction and demolition waste Mgmt 
+EQ,EQ,Indoor environmental Quality,cat,16,6,22,Sadler West Expansion,4,6/16,EQ - Indoor environmental Quality
+EQ,EQp1,Minimum IAQ performance,prereq,0,0,22,Sadler West Expansion,4,prerequisite,EQp1 - Minimum IAQ performance
+EQ,EQp2,Environmental tobacco smoke control,prereq,0,0,22,Sadler West Expansion,4,prerequisite,EQp2 - Environmental tobacco smoke control
+EQ,EQc1,Enhanced IAQ strategies,cred,2,2,22,Sadler West Expansion,4,2/2,EQc1 - Enhanced IAQ strategies
+EQ,EQc2,Low-emitting materials,cred,3,3,22,Sadler West Expansion,4,3/3,EQc2 - Low-emitting materials
+EQ,EQc3,Construction IAQ mgmt plan,cred,1,1,22,Sadler West Expansion,4,1/1,EQc3 - Construction IAQ mgmt plan
+EQ,EQc4,IAQ assessment,cred,2,0,22,Sadler West Expansion,4,0/2,EQc4 - IAQ assessment
+EQ,EQc5,Thermal comfort,cred,1,0,22,Sadler West Expansion,4,0/1,EQc5 - Thermal comfort
+EQ,EQc6,Interior lighting,cred,2,0,22,Sadler West Expansion,4,0/2,EQc6 - Interior lighting
+EQ,EQc7,Daylight,cred,3,0,22,Sadler West Expansion,4,0/3,EQc7 - Daylight
+EQ,EQc8,Quality views,cred,1,0,22,Sadler West Expansion,4,0/1,EQc8 - Quality views
+EQ,EQc9,Acoustic performance,cred,1,0,22,Sadler West Expansion,4,0/1,EQc9 - Acoustic performance
+ID,ID,Innovation,cat,6,5,22,Sadler West Expansion,4,5/6,ID - Innovation
+ID,IDc1,Innovation,cred,5,4,22,Sadler West Expansion,4,4/5,IDc1 - Innovation
+ID,IDc2,LEED Accredited Professional,cred,1,1,22,Sadler West Expansion,4,1/1,IDc2 - LEED Accredited Professional
+RP,RP,Regional Priority Credits,cat,4,3,22,Sadler West Expansion,4,3/4,RP - Regional Priority Credits
+RP,EAc4,Renewable energy production,cred,1,1,22,Sadler West Expansion,4,1/1,EAc4 - Renewable energy production
+RP,MRc1,Building life cycle impact reduction,cred,1,1,22,Sadler West Expansion,4,1/1,MRc1 - Building life cycle impact reduction
+RP,WEc3,Outdoor water use reduction,cred,1,1,22,Sadler West Expansion,4,1/1,WEc3 - Outdoor water use reduction
+LT,LT,Location and Transportation,cat,20,4,22,Sadler West Expansion,4,4/20,LT - Location and Transportation
+LT,LTc1,LEED for Neighborhood Development location,cred,16,0,22,Sadler West Expansion,4,0/16,LTc1 - LEED for Neighborhood Development location
+LT,LTc2,Sensitive land protection,cred,1,1,22,Sadler West Expansion,4,1/1,LTc2 - Sensitive land protection
+LT,LTc3,High priority site,cred,2,0,22,Sadler West Expansion,4,0/2,LTc3 - High priority site
+LT,LTc4,Surrounding density and diverse uses,cred,5,2,22,Sadler West Expansion,4,2/5,LTc4 - Surrounding density and diverse uses
+LT,LTc5,Access to quality transit,cred,5,0,22,Sadler West Expansion,4,0/5,LTc5 - Access to quality transit
+LT,LTc6,Bicycle facilities,cred,1,0,22,Sadler West Expansion,4,0/1,LTc6 - Bicycle facilities
+LT,LTc7,Reduced parking footprint,cred,1,1,22,Sadler West Expansion,4,1/1,LTc7 - Reduced parking footprint
+LT,LTc8,Green vehicles,cred,1,0,22,Sadler West Expansion,4,0/1,LTc8 - Green vehicles
+IP,IP,Integrative process credits,cat,1,0,22,Sadler West Expansion,4,0/1,IP - Integrative process credits
+IP,IPc1,Integrative process credits,cred,1,0,22,Sadler West Expansion,4,0/1,IPc1 - Integrative process credits
+TO,TO,Total,cat,110,55,22,Sadler West Expansion,4,55/110,TO - Total
+SS,SS,Sustainable Sites,cat,10,2,21,Campus Living Center,4,2/10,SS - Sustainable Sites
+SS,SSp1,Construction activity pollution prevention,prereq,0,0,21,Campus Living Center,4,prerequisite,SSp1 - Construction activity pollution prevention
+SS,SSc1,Site assessment,cred,1,1,21,Campus Living Center,4,1/1,SSc1 - Site assessment
+SS,SSc2,Site development - protect or restore habitat,cred,2,0,21,Campus Living Center,4,0/2,SSc2 - Site development - protect or restore habitat
+SS,SSc3,Open space,cred,1,0,21,Campus Living Center,4,0/1,SSc3 - Open space
+SS,SSc4,Rainwater mgmt,cred,3,0,21,Campus Living Center,4,0/3,SSc4 - Rainwater mgmt
+SS,SSc5,Heat island reduction,cred,2,0,21,Campus Living Center,4,0/2,SSc5 - Heat island reduction
+SS,SSc6,Light pollution reduction,cred,1,1,21,Campus Living Center,4,1/1,SSc6 - Light pollution reduction
+WE,WE,Water Efficiency,cat,11,3,21,Campus Living Center,4,3/11,WE - Water Efficiency
+WE,WEp1,Outdoor water use reduction,prereq,0,0,21,Campus Living Center,4,prerequisite,WEp1 - Outdoor water use reduction
+WE,WEp2,Indoor water use reduction,prereq,0,0,21,Campus Living Center,4,prerequisite,WEp2 - Indoor water use reduction
+WE,WEp3,Building level water metering,prereq,0,0,21,Campus Living Center,4,prerequisite,WEp3 - Building level water metering
+WE,WEc1,Cooling tower water use,cred,2,0,21,Campus Living Center,4,0/2,WEc1 - Cooling tower water use
+WE,WEc2,Water metering,cred,1,0,21,Campus Living Center,4,0/1,WEc2 - Water metering
+WE,WEc3,Outdoor water use reduction,cred,2,2,21,Campus Living Center,4,2/2,WEc3 - Outdoor water use reduction
+WE,WEc4,Indoor water use reduction,cred,6,1,21,Campus Living Center,4,1/6,WEc4 - Indoor water use reduction
+EA,EA,Energy and Atmosphere,cat,89,16,21,Campus Living Center,4,16/89,EA - Energy and Atmosphere
+EA,EAp1,Fundmanetal commissioning and verification,prereq,0,0,21,Campus Living Center,4,prerequisite,EAp1 - Fundmanetal commissioning and verification
+EA,EAp2,Minimum energy performance,prereq,0,0,21,Campus Living Center,4,prerequisite,EAp2 - Minimum energy performance
+EA,EAp3,Building-level energy metering,prereq,0,0,21,Campus Living Center,4,prerequisite,EAp3 - Building-level energy metering
+EA,EAp4,Fundamental refrigerant Mgmt,prereq,0,0,21,Campus Living Center,4,prerequisite,EAp4 - Fundamental refrigerant Mgmt
+EA,EAp5,Minimum energy performance (2024 update),prereq,0,0,21,Campus Living Center,4,prerequisite,EAp5 - Minimum energy performance (2024 update)
+EA,EAc1,Enhanced commissioning,cred,6,0,21,Campus Living Center,4,0/6,EAc1 - Enhanced commissioning
+EA,EAc2,Advanced energy metering,cred,1,0,21,Campus Living Center,4,0/1,EAc2 - Advanced energy metering
+EA,EAc3,Demand response,cred,2,0,21,Campus Living Center,4,0/2,EAc3 - Demand response
+EA,EAc4,Renewable energy production,cred,3,3,21,Campus Living Center,4,3/3,EAc4 - Renewable energy production
+EA,EAc5,Enhanced refrigerant Mgmt,cred,1,1,21,Campus Living Center,4,1/1,EAc5 - Enhanced refrigerant Mgmt
+EA,EAc6,Green power and carbon offsets,cred,2,0,21,Campus Living Center,4,0/2,EAc6 - Green power and carbon offsets
+EA,EAc7,Optimize energy performance (2024 Update),cred,20,0,21,Campus Living Center,4,0/20,EAc7 - Optimize energy performance (2024 Update)
+EA,EAc8,Optimize energy performance,cred,18,12,21,Campus Living Center,4,12/18,EAc8 - Optimize energy performance
+EA,EAp6,Energy performance metering path,prereq,0,0,21,Campus Living Center,4,prerequisite,EAp6 - Energy performance metering path
+EA,EAp7,District energy,prereq,0,0,21,Campus Living Center,4,prerequisite,EAp7 - District energy
+MR,MR,Material and Resources,cat,13,7,21,Campus Living Center,4,7/13,MR - Material and Resources
+MR,MRp1,Storage and collection of recyclables,prereq,0,0,21,Campus Living Center,4,prerequisite,MRp1 - Storage and collection of recyclables
+MR,MRp2,Construction and demolition waste Mgmt planning,prereq,0,0,21,Campus Living Center,4,prerequisite,MRp2 - Construction and demolition waste Mgmt planning
+MR,MRc1,Building life cycle impact reduction,cred,5,5,21,Campus Living Center,4,5/5,MRc1 - Building life cycle impact reduction
+MR,MRc2,Building product discolsure and optimization - environmental product d...,cred,2,1,21,Campus Living Center,4,1/2,MRc2 - Building product discolsure and optimization - environmental product d...
+MR,MRc3,Building product disclosure and optimization - sourcing of raw materials,cred,2,0,21,Campus Living Center,4,0/2,MRc3 - Building product disclosure and optimization - sourcing of raw materials
+MR,MRc4,Building product disclosure and optimization - material ingrediencts,cred,2,1,21,Campus Living Center,4,1/2,MRc4 - Building product disclosure and optimization - material ingrediencts
+MR,MRc5,Construction and demolition waste Mgmt ,cred,2,0,21,Campus Living Center,4,0/2,MRc5 - Construction and demolition waste Mgmt 
+EQ,EQ,Indoor environmental Quality,cat,16,9,21,Campus Living Center,4,9/16,EQ - Indoor environmental Quality
+EQ,EQp1,Minimum IAQ performance,prereq,0,0,21,Campus Living Center,4,prerequisite,EQp1 - Minimum IAQ performance
+EQ,EQp2,Environmental tobacco smoke control,prereq,0,0,21,Campus Living Center,4,prerequisite,EQp2 - Environmental tobacco smoke control
+EQ,EQc1,Enhanced IAQ strategies,cred,2,1,21,Campus Living Center,4,1/2,EQc1 - Enhanced IAQ strategies
+EQ,EQc2,Low-emitting materials,cred,3,3,21,Campus Living Center,4,3/3,EQc2 - Low-emitting materials
+EQ,EQc3,Construction IAQ mgmt plan,cred,1,1,21,Campus Living Center,4,1/1,EQc3 - Construction IAQ mgmt plan
+EQ,EQc4,IAQ assessment,cred,2,0,21,Campus Living Center,4,0/2,EQc4 - IAQ assessment
+EQ,EQc5,Thermal comfort,cred,1,0,21,Campus Living Center,4,0/1,EQc5 - Thermal comfort
+EQ,EQc6,Interior lighting,cred,2,1,21,Campus Living Center,4,1/2,EQc6 - Interior lighting
+EQ,EQc7,Daylight,cred,3,2,21,Campus Living Center,4,2/3,EQc7 - Daylight
+EQ,EQc8,Quality views,cred,1,1,21,Campus Living Center,4,1/1,EQc8 - Quality views
+EQ,EQc9,Acoustic performance,cred,1,0,21,Campus Living Center,4,0/1,EQc9 - Acoustic performance
+ID,ID,Innovation,cat,6,6,21,Campus Living Center,4,6/6,ID - Innovation
+ID,IDc1,Innovation,cred,5,5,21,Campus Living Center,4,5/5,IDc1 - Innovation
+ID,IDc2,LEED Accredited Professional,cred,1,1,21,Campus Living Center,4,1/1,IDc2 - LEED Accredited Professional
+RP,RP,Regional Priority Credits,cat,4,3,21,Campus Living Center,4,3/4,RP - Regional Priority Credits
+RP,EAc4,Renewable Energy Production,cred,1,1,21,Campus Living Center,4,1/1,EAc4 - Renewable Energy Production
+RP,MRc1,Building life cycle impact reduction,cred,1,1,21,Campus Living Center,4,1/1,MRc1 - Building life cycle impact reduction
+RP,SSc2,Site development - protect or restore habitat,cred,1,0,21,Campus Living Center,4,0/1,SSc2 - Site development - protect or restore habitat
+RP,WEc3,Outdoor water use reduction,cred,1,1,21,Campus Living Center,4,1/1,WEc3 - Outdoor water use reduction
+LT,LT,Location and Transportation,cat,20,4,21,Campus Living Center,4,4/20,LT - Location and Transportation
+LT,LTc1,LEED for Neighborhood Development location,cred,16,0,21,Campus Living Center,4,0/16,LTc1 - LEED for Neighborhood Development location
+LT,LTc2,Sensitive land protection,cred,1,1,21,Campus Living Center,4,1/1,LTc2 - Sensitive land protection
+LT,LTc3,High priority site,cred,2,0,21,Campus Living Center,4,0/2,LTc3 - High priority site
+LT,LTc4,Surrounding density and diverse uses,cred,5,2,21,Campus Living Center,4,2/5,LTc4 - Surrounding density and diverse uses
+LT,LTc5,Access to quality transit,cred,5,0,21,Campus Living Center,4,0/5,LTc5 - Access to quality transit
+LT,LTc6,Bicycle facilities,cred,1,0,21,Campus Living Center,4,0/1,LTc6 - Bicycle facilities
+LT,LTc7,Reduced parking footprint,cred,1,1,21,Campus Living Center,4,1/1,LTc7 - Reduced parking footprint
+LT,LTc8,Green vehicles,cred,1,0,21,Campus Living Center,4,0/1,LTc8 - Green vehicles
+IP,IP,Integrative process credits,cat,1,0,21,Campus Living Center,4,0/1,IP - Integrative process credits
+IP,IPc1,Integrative process credits,cred,1,0,21,Campus Living Center,4,0/1,IPc1 - Integrative process credits
+TO,TO,Total,cat,110,50,21,Campus Living Center,4,50/110,TO - Total
+SS,SS,Sustainable Sites,cat,10,1,20,Alumni House Addition,4,1/10,SS - Sustainable Sites
+SS,SSp1,Construction activity pollution prevention,prereq,0,0,20,Alumni House Addition,4,prerequisite,SSp1 - Construction activity pollution prevention
+SS,SSc1,Site assessment,cred,1,1,20,Alumni House Addition,4,1/1,SSc1 - Site assessment
+SS,SSc2,Site development - protect or restore habitat,cred,2,0,20,Alumni House Addition,4,0/2,SSc2 - Site development - protect or restore habitat
+SS,SSc3,Open space,cred,1,0,20,Alumni House Addition,4,0/1,SSc3 - Open space
+SS,SSc4,Rainwater mgmt,cred,3,0,20,Alumni House Addition,4,0/3,SSc4 - Rainwater mgmt
+SS,SSc5,Heat island reduction,cred,2,0,20,Alumni House Addition,4,0/2,SSc5 - Heat island reduction
+SS,SSc6,Light pollution reduction,cred,1,0,20,Alumni House Addition,4,0/1,SSc6 - Light pollution reduction
+WE,WE,Water Efficiency,cat,11,5,20,Alumni House Addition,4,5/11,WE - Water Efficiency
+WE,WEp1,Outdoor water use reduction,prereq,0,0,20,Alumni House Addition,4,prerequisite,WEp1 - Outdoor water use reduction
+WE,WEp2,Indoor water use reduction,prereq,0,0,20,Alumni House Addition,4,prerequisite,WEp2 - Indoor water use reduction
+WE,WEp3,Building level water metering,prereq,0,0,20,Alumni House Addition,4,prerequisite,WEp3 - Building level water metering
+WE,WEc1,Cooling tower water use,cred,2,0,20,Alumni House Addition,4,0/2,WEc1 - Cooling tower water use
+WE,WEc2,Water metering,cred,1,0,20,Alumni House Addition,4,0/1,WEc2 - Water metering
+WE,WEc3,Outdoor water use reduction,cred,2,1,20,Alumni House Addition,4,1/2,WEc3 - Outdoor water use reduction
+WE,WEc4,Indoor water use reduction,cred,6,4,20,Alumni House Addition,4,4/6,WEc4 - Indoor water use reduction
+EA,EA,Energy and Atmosphere,cat,89,16,20,Alumni House Addition,4,16/89,EA - Energy and Atmosphere
+EA,EAp1,Fundmanetal commissioning and verification,prereq,0,0,20,Alumni House Addition,4,prerequisite,EAp1 - Fundmanetal commissioning and verification
+EA,EAp2,Minimum energy performance,prereq,0,0,20,Alumni House Addition,4,prerequisite,EAp2 - Minimum energy performance
+EA,EAp3,Building-level energy metering,prereq,0,0,20,Alumni House Addition,4,prerequisite,EAp3 - Building-level energy metering
+EA,EAp4,Fundamental refrigerant Mgmt,prereq,0,0,20,Alumni House Addition,4,prerequisite,EAp4 - Fundamental refrigerant Mgmt
+EA,EAp5,Minimum energy performance (2024 update),prereq,0,0,20,Alumni House Addition,4,prerequisite,EAp5 - Minimum energy performance (2024 update)
+EA,EAc1,Enhanced commissioning,cred,6,3,20,Alumni House Addition,4,3/6,EAc1 - Enhanced commissioning
+EA,EAc2,Advanced energy metering,cred,1,0,20,Alumni House Addition,4,0/1,EAc2 - Advanced energy metering
+EA,EAc3,Demand response,cred,2,0,20,Alumni House Addition,4,0/2,EAc3 - Demand response
+EA,EAc4,Renewable energy production,cred,3,0,20,Alumni House Addition,4,0/3,EAc4 - Renewable energy production
+EA,EAc5,Enhanced refrigerant Mgmt,cred,1,1,20,Alumni House Addition,4,1/1,EAc5 - Enhanced refrigerant Mgmt
+EA,EAc6,Green power and carbon offsets,cred,2,2,20,Alumni House Addition,4,2/2,EAc6 - Green power and carbon offsets
+EA,EAc7,Optimize energy performance (2024 Update),cred,20,0,20,Alumni House Addition,4,0/20,EAc7 - Optimize energy performance (2024 Update)
+EA,EAc8,Optimize energy performance,cred,18,10,20,Alumni House Addition,4,10/18,EAc8 - Optimize energy performance
+EA,EAp6,Energy performance metering path,prereq,0,0,20,Alumni House Addition,4,prerequisite,EAp6 - Energy performance metering path
+EA,EAp7,District energy,prereq,0,0,20,Alumni House Addition,4,prerequisite,EAp7 - District energy
+MR,MR,Material and Resources,cat,13,8,20,Alumni House Addition,4,8/13,MR - Material and Resources
+MR,MRp1,Storage and collection of recyclables,prereq,0,0,20,Alumni House Addition,4,prerequisite,MRp1 - Storage and collection of recyclables
+MR,MRp2,Construction and demolition waste Mgmt planning,prereq,0,0,20,Alumni House Addition,4,prerequisite,MRp2 - Construction and demolition waste Mgmt planning
+MR,MRc1,Building life cycle impact reduction,cred,5,3,20,Alumni House Addition,4,3/5,MRc1 - Building life cycle impact reduction
+MR,MRc2,Building product discolsure and optimization - environmental product d...,cred,2,1,20,Alumni House Addition,4,1/2,MRc2 - Building product discolsure and optimization - environmental product d...
+MR,MRc3,Building product disclosure and optimization - sourcing of raw materials,cred,2,1,20,Alumni House Addition,4,1/2,MRc3 - Building product disclosure and optimization - sourcing of raw materials
+MR,MRc4,Building product disclosure and optimization - material ingrediencts,cred,2,1,20,Alumni House Addition,4,1/2,MRc4 - Building product disclosure and optimization - material ingrediencts
+MR,MRc5,Construction and demolition waste Mgmt ,cred,2,2,20,Alumni House Addition,4,2/2,MRc5 - Construction and demolition waste Mgmt 
+EQ,EQ,Indoor environmental Quality,cat,16,10,20,Alumni House Addition,4,10/16,EQ - Indoor environmental Quality
+EQ,EQp1,Minimum IAQ performance,prereq,0,0,20,Alumni House Addition,4,prerequisite,EQp1 - Minimum IAQ performance
+EQ,EQp2,Environmental tobacco smoke control,prereq,0,0,20,Alumni House Addition,4,prerequisite,EQp2 - Environmental tobacco smoke control
+EQ,EQc1,Enhanced IAQ strategies,cred,2,2,20,Alumni House Addition,4,2/2,EQc1 - Enhanced IAQ strategies
+EQ,EQc2,Low-emitting materials,cred,3,2,20,Alumni House Addition,4,2/3,EQc2 - Low-emitting materials
+EQ,EQc3,Construction IAQ mgmt plan,cred,1,1,20,Alumni House Addition,4,1/1,EQc3 - Construction IAQ mgmt plan
+EQ,EQc4,IAQ assessment,cred,2,2,20,Alumni House Addition,4,2/2,EQc4 - IAQ assessment
+EQ,EQc5,Thermal comfort,cred,1,1,20,Alumni House Addition,4,1/1,EQc5 - Thermal comfort
+EQ,EQc6,Interior lighting,cred,2,1,20,Alumni House Addition,4,1/2,EQc6 - Interior lighting
+EQ,EQc7,Daylight,cred,3,0,20,Alumni House Addition,4,0/3,EQc7 - Daylight
+EQ,EQc8,Quality views,cred,1,1,20,Alumni House Addition,4,1/1,EQc8 - Quality views
+EQ,EQc9,Acoustic performance,cred,1,0,20,Alumni House Addition,4,0/1,EQc9 - Acoustic performance
+ID,ID,Innovation,cat,6,5,20,Alumni House Addition,4,5/6,ID - Innovation
+ID,IDc1,Innovation,cred,5,4,20,Alumni House Addition,4,4/5,IDc1 - Innovation
+ID,IDc2,LEED Accredited Professional,cred,1,1,20,Alumni House Addition,4,1/1,IDc2 - LEED Accredited Professional
+RP,RP,Regional Priority Credits,cat,4,1,20,Alumni House Addition,4,1/4,RP - Regional Priority Credits
+RP,MRc1,Building life cycle impact reduction,cred,1,1,20,Alumni House Addition,4,1/1,MRc1 - Building life cycle impact reduction
+RP,SSc2,Site development - protect or restore habitat,cred,1,0,20,Alumni House Addition,4,0/1,SSc2 - Site development - protect or restore habitat
+RP,SSc4,Rainwater Mgmt,cred,1,0,20,Alumni House Addition,4,0/1,SSc4 - Rainwater Mgmt
+RP,WEc3,Outdoor water use reduction,cred,1,0,20,Alumni House Addition,4,0/1,WEc3 - Outdoor water use reduction
+LT,LT,Location and Transportation,cat,20,6,20,Alumni House Addition,4,6/20,LT - Location and Transportation
+LT,LTc1,LEED for Neighborhood Development location,cred,16,0,20,Alumni House Addition,4,0/16,LTc1 - LEED for Neighborhood Development location
+LT,LTc2,Sensitive land protection,cred,1,1,20,Alumni House Addition,4,1/1,LTc2 - Sensitive land protection
+LT,LTc3,High priority site,cred,2,0,20,Alumni House Addition,4,0/2,LTc3 - High priority site
+LT,LTc4,Surrounding density and diverse uses,cred,5,2,20,Alumni House Addition,4,2/5,LTc4 - Surrounding density and diverse uses
+LT,LTc5,Access to quality transit,cred,5,2,20,Alumni House Addition,4,2/5,LTc5 - Access to quality transit
+LT,LTc6,Bicycle facilities,cred,1,1,20,Alumni House Addition,4,1/1,LTc6 - Bicycle facilities
+LT,LTc7,Reduced parking footprint,cred,1,0,20,Alumni House Addition,4,0/1,LTc7 - Reduced parking footprint
+LT,LTc8,Green vehicles,cred,1,0,20,Alumni House Addition,4,0/1,LTc8 - Green vehicles
+IP,IP,Integrative process credits,cat,1,0,20,Alumni House Addition,4,0/1,IP - Integrative process credits
+IP,IPc1,Integrative process credits,cred,1,0,20,Alumni House Addition,4,0/1,IPc1 - Integrative process credits
+TO,TO,Total,cat,110,52,20,Alumni House Addition,4,52/110,TO - Total
